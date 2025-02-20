@@ -18,3 +18,5 @@ urls_file = "input_files/odissi_categories_data_urls.json"
 data_file = "input_files/odissi_categories_data.json"
 categories_file = "input_files/odissi_categories.json"
 output_file = "output.json"
+
+

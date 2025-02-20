@@ -103,7 +103,7 @@ def generate_json_from_csv(csv_file, urls_file, data_file, categories_file, outp
                     "category_data_movements_id": data["category_data_movements_id"],
                     "start_time": start_time if start_time is not None else 0,
                     "end_time": end_time if end_time is not None else 70000,
-                    "related_explanation_slug": f"{data['slug']}-un-exp",
+                    "related_explanation_slug": f"{data['slug']}",
                     "type": type_value
                 }
             }
