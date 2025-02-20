@@ -1,0 +1,286 @@
+type,cue,movie
+EXPLANATION,,exs_100_intromangala.mp4
+EXPLANATION,0 - end,exs_101_bhumi.mp4
+EXPLANATION,,exs_100_intromangala.mp4
+EXPLANATION,0 - end,exs_102_durga.mp4
+EXPLANATION,,exs_100_intromangala.mp4
+EXPLANATION,0 - end,exs_103_ganband.mp4
+EXPLANATION,,exs_100_intromangala.mp4
+EXPLANATION,0 - end,exs_104_sabhapranam.mp4
+EXPLANATION,,exs_200_sthayi.mp4
+EXPLANATION,0 - end,exs_201_sabda.mp4
+EXPLANATION,,exs_200_sthayi.mp4
+EXPLANATION,0 - end,exs_202_GPDstha.mp4
+EXPLANATION,,exs_200_sthayi.mp4
+EXPLANATION,0 - end,exs_203_battu.mp4
+EXPLANATION,,exs_200_sthayi.mp4
+EXPLANATION,0 - end,exs_204_konark.mp4
+EXPLANATION,,exs_300_pallavi.mp4
+EXPLANATION,0 - end,exs_301_rage.mp4
+EXPLANATION,,exs_300_pallavi.mp4
+EXPLANATION,0 - end,exs_302_hamsa.mp4
+EXPLANATION,,exs_400_abhin.mp4
+EXPLANATION,0 - end,exs_401_sakh.mp4
+EXPLANATION,,exs_400_abhin.mp4
+EXPLANATION,0 - end,exs_402_pratina.mp4
+EXPLANATION,,exs_500_moksha.mp4
+EXPLANATION,0 - end,exs_501_kelumoksha.mp4
+EXPLANATION,,exs_600_introchalana.mp4
+EXPLANATION,0 - end,exs_601_pc1.mp4
+EXPLANATION,,exs_600_introchalana.mp4
+EXPLANATION,0 - end,exs_602_pc2.mp4
+EXPLANATION,,exs_600_introchalana.mp4
+EXPLANATION,0 - end,exs_603_pc3.mp4
+EXPLANATION,,exs_600_introchalana.mp4
+EXPLANATION,0 - end,exs_604_pc4.mp4
+EXPLANATION,0 - end,exs_700_vilas.mp4
+EXPLANATION,0 - end,exs_800_chalo.mp4
+EXPLANATION,0 - end,exs_900_liongati.mp4
+EXPLANATION,0 - end,exs_1000_swangati.mp4
+EXPLANATION,0 - end,exs_1100_debi.mp4
+EXPLANATION,0 - end,exs_1200_kunda.mp4
+EXPLANATION,,exu_800_01_introbhrasb.mp4
+EXPLANATION,0 - end,exs_1300_abah.mp4
+EXPLANATION,0 - end,exs_1400_dasa.mp4
+EXPLANATION,0 - end,exs_1500_abbb.mp4
+EXPLANATION,0 - end,exs_1600_murch.mp4
+EXPLANATION,0 - end,exs_1700_sabda.mp4
+EXPLANATION,0 - end,exs_1800_sthsan.mp4
+SEQUENCE,,sq_001_bhoomi_f.mp4
+SEQUENCE,,sq_101_mangalacharan1_f.mp4
+SEQUENCE,,sq_102_mangalacharan2_f.mp4
+SEQUENCE,,sq_103_mangalacharan3_f.mp4
+SEQUENCE,,sq_201_sthiti_f.mp4
+SEQUENCE,,sq_202_GPDsthayi_f.mp4
+SEQUENCE,,sq_203_battu_f.mp4
+SEQUENCE,,sq_204_konark_f.mp4
+SEQUENCE,,sq_301_pallavi_f.mp4
+SEQUENCE,,sq_302_pallavi2_f.mp4
+SEQUENCE,,sq_401_abhinaya1_f.mp4
+SEQUENCE,,sq_402_abhinaya2_f.mp4
+SEQUENCE,,sq_501_moksha_f.mp4
+SEQUENCE,,sq_601_pc1_f.mp4
+SEQUENCE,,sq_602_pc2_f.mp4
+SEQUENCE,,sq_603_pc3_f.mp4
+SEQUENCE,,sq_604_pc4_f.mp4
+SEQUENCE,,sq_501_vilasini_f.mp4
+SEQUENCE,,sq_502_chalo_f.mp4
+SEQUENCE,,sq_503_gatibilasl_f.mp4
+SEQUENCE,,sq_504_gatibilash_f.mp4
+SEQUENCE,,sq_505_debi_f.mp4
+SEQUENCE,,sq_506_kundalika_f.mp4
+SEQUENCE,,sq_507_abahani_f.mp4
+SEQUENCE,,sq_508_dasa_f.mp4
+SEQUENCE,,sq_509_ABBB_f.mp4
+SEQUENCE,,sq_510_murch_f.mp4
+SEQUENCE,,sq_511_sabda_f.mp4
+SEQUENCE,,sq_512_sthsan_f.mp4
+UNIT ,0 - 1865,ut_313_prustha_f.mp4
+UNIT ,4331 - 4683,ut_802_vesht_f.mp4
+UNIT ,9010 - 9076,ut_803_ekchauk_f.mp4
+UNIT ,9141 - 9247,ut_803_ekchauk_f.mp4
+UNIT ,9490 - 10513,ut_307_kumbha_f.mp4
+UNIT ,10566 - 10695,ut_303_samapada_f.mp4
+UNIT ,11953 - end ​,ut_303_samapada_f.mp4
+UNIT ,560 - 614,ut_303_samapada_f.mp4
+UNIT ,623 - 722,ut_309_chaukapada_f.mp4
+UNIT ,725 - 741,ut_307_kumbha_f.mp4
+UNIT ,1922 - 1984,ut_303_samapada_f.mp4
+UNIT ,1997 - 2092,ut_327_alidh_f.mp4
+UNIT ,2409 - 2475,ut_312_dhanu_f.mp4
+UNIT ,2520 - 2592,ut_303_samapada_f.mp4
+UNIT ,2645 - 2708,ut_328_pratya_f.mp4
+UNIT ,2831 - 2948,ut_324_ullo_f.mp4
+UNIT ,2964 - 3079,ut_801_ardhabh_f.mp4
+UNIT ,3438 - 3495,ut_328_pratya_f.mp4
+UNIT ,4202 - 4271,ut_324_ullo_f.mp4
+UNIT ,5655 - 5772,ut_315_kunchi_f.mp4
+UNIT ,6194 - 6244,ut_803_ekchauk_f.mp4
+UNIT ,6302 - 6373,ut_801_ardhabh_f.mp4
+UNIT ,6482 - 6617,ut_819_kash_f.mp4
+UNIT ,6621 - 6733,ut_328_pratya_f.mp4
+UNIT ,6793 - 6910,ut_324_ullo_f.mp4
+UNIT ,7090 - 7209,ut_315_kunchi_f.mp4
+UNIT ,7878 - 7942,ut_324_ullo_f.mp4
+UNIT ,8105 - 8163,ut_329_bandh_f.mp4
+UNIT ,8167 - 8467,ut_330_ekapada_f.mp4
+UNIT ,8660 - 8713,ut_324_ullo_f.mp4
+UNIT ,13034 - 13090,ut_303_samapada_f.mp4
+UNIT ,13389 - 13565,ut_313_prustha_f.mp4
+UNIT ,13694 - 13938,ut_303_samapada_f.mp4
+UNIT ,13995 - 14240,ut_313_prustha_f.mp4
+UNIT ,0 - 495,ut_303_samapada_f.mp4
+UNIT ,544 - 730,ut_302_rekha_f.mp4
+UNIT ,735 - 917,ut_303_samapada_f.mp4
+UNIT ,1098 - 1215,ut_315_kunchi_f.mp4
+UNIT ,1330 - 1464,ut_313_prustha_f.mp4
+UNIT ,1565 - 1683,ut_310_mandala_f.mp4
+UNIT ,1699 - 1871,ut_313_prustha_f.mp4
+UNIT ,2181 - 2413,ut_313_prustha_f.mp4
+UNIT ,2525 - 2592,ut_315_kunchi_f.mp4
+UNIT ,2714 - 2843,ut_322_lalita_f.mp4
+UNIT ,3000 - 3316,ut_313_prustha_f.mp4
+UNIT ,3382 - 3674,ut_331_jangh_f.mp4
+UNIT ,3855 - 4135,ut_315_kunchi_f.mp4
+UNIT ,6495 - 6622,ut_303_samapada_f.mp4
+UNIT ,5709 - 5949,ut_907_bhuj_f.mp4
+UNIT ,6857 - 7273,ut_313_prustha_f.mp4
+UNIT ,7443 - 7820,ut_315_kunchi_f.mp4
+UNIT ,7881 - 8172,ut_303_samapada_f.mp4
+UNIT ,0 - 4443,ut_303_samapada_f.mp4
+UNIT ,12679 - 13022,ut_501_bamdaksh_f.mp4
+UNIT ,13037 - 13157,ut_502_agraprushth_f.mp4
+UNIT ,13163 - 13573,ut_301_adi_f.mp4
+UNIT ,13583 - 14050,ut_302_rekha_f.mp4
+UNIT ,14057 - 14240,ut_303_samapada_f.mp4
+UNIT ,14299 - 14776,ut_304_viparit_f.mp4
+UNIT ,20112 - 20182,ut_309_chaukapada_f.mp4
+UNIT ,27560 - 27672,ut_305_arswastik_f.mp4
+UNIT ,27675 - 27790,ut_306_swastik_f.mp4
+UNIT ,27792 - 27854,ut_307_kumbha_f.mp4
+UNIT ,27911 - 28021,ut_308_archauk_f.mp4
+UNIT ,28024 - 28213,ut_309_chaukapada_f.mp4
+UNIT ,28217 - 28642,ut_310_mandala_f.mp4
+UNIT ,30545 - 30610,ut_803_ekchauk_f.mp4
+UNIT ,31395 - 31508,ut_310_mandala_f.mp4
+UNIT ,39371 - 39495,ut_311_trasya_f.mp4
+UNIT ,39500 - 39670,ut_312_dhanu_f.mp4
+UNIT ,39680 - 39980,ut_313_prustha_f.mp4
+UNIT ,40031 - 40156,ut_314_suchi_f.mp4
+UNIT ,40158 - 40320,ut_315_kunchi_f.mp4
+UNIT ,40330 - 40514,ut_317_anukun_f.mp4
+UNIT ,40683 - 40805,ut_318_ghars_f.mp4
+UNIT ,40820 - 40980,ut_319_utpar_f.mp4
+UNIT ,40985 - 41226,ut_316_vilag_f.mp4
+UNIT ,0 - 978,ut_309_chaukapada_f.mp4
+UNIT ,1026 - 1100,ut_315_kunchi_f.mp4
+UNIT ,1208 - 1277,ut_313_prustha_f.mp4
+UNIT ,1862 - 1883,ut_315_kunchi_f.mp4
+UNIT ,5530 - 5586,ut_313_prustha_f.mp4
+UNIT ,5640 - 5719,ut_803_ekchauk_f.mp4
+UNIT ,5892 - 5948,ut_201_mardala_f.mp4
+UNIT ,6003 - 6312,ut_803_ekchauk_f.mp4
+UNIT ,6315 - 6374,ut_201_mardala_f.mp4
+UNIT ,6613 - 6720,ut_309_chaukapada_f.mp4
+UNIT ,6917 - 6980,ut_808_kunprush_f.mp4
+UNIT ,7762 - 8356,ut_322_lalita_f.mp4
+UNIT ,0 - 495,ut_309_chaukapada_f.mp4
+UNIT ,544 - 676,ut_303_samapada_f.mp4
+UNIT ,804 - 1620,ut_307_kumbha_f.mp4
+UNIT ,1875 - 2645,ut_807_parshach_f.mp4
+UNIT ,3005 - 3144,ut_807_parshach_f.mp4
+UNIT ,3544 - 3607,ut_309_chaukapada_f.mp4
+UNIT ,3916 - 3971,ut_306_swastik_f.mp4
+UNIT ,4202 - 4644,ut_306_swastik_f.mp4
+UNIT ,6242 - 6320,ut_808_kunprush_f.mp4
+UNIT ,6322 - 6372,ut_309_chaukapada_f.mp4
+UNIT ,6374 - 6799,ut_803_ekchauk_f.mp4
+UNIT ,10331 - 10383,ut_309_chaukapada_f.mp4
+UNIT ,11185 - 11400,ut_306_swastik_f.mp4
+UNIT ,11781 - 12600,ut_331_jangh_f.mp4
+UNIT ,11781 - 19800,ut_303_samapada_f.mp4
+UNIT ,483 - 736,ut_201_mardala_f.mp4
+UNIT ,785 - 910,ut_203_manj_f.mp4
+UNIT ,915 - 1093,ut_201_mardala_f.mp4
+UNIT ,1812 - 1991,ut_324_ullo_f.mp4
+UNIT ,3493 - 3557,ut_805_chakrachauk_f.mp4
+UNIT ,8469 - 8525,ut_321_meena_f.mp4
+UNIT ,8828 - 9000,ut_306_swastik_f.mp4
+UNIT ,9128 - 9261,ut_306_swastik_f.mp4
+UNIT ,9546 - 9603,ut_801_ardhabh_f.mp4
+UNIT ,10142 - 10627,ut_801_ardhabh_f.mp4
+UNIT ,10681 - 10935,ut_324_ullo_f.mp4
+UNIT ,12501 - 13620,ut_808_kunprush_f.mp4
+UNIT ,13872 - 19800,ut_105_atibhanga_f.mp4
+UNIT ,0 - 304,ut_311_trasya_f.mp4
+UNIT ,1156 - 1342,ut_819_kash_f.mp4
+UNIT ,3252 - 3311,ut_803_ekchauk_f.mp4
+UNIT ,3551 - 3662,ut_311_trasya_f.mp4
+UNIT ,5111 - 5355,ut_321_meena_f.mp4
+UNIT ,5482 - 5532,ut_329_bandh_f.mp4
+UNIT ,7701 - 7862,ut_313_prustha_f.mp4
+UNIT ,8651 - 8715,ut_803_ekchauk_f.mp4
+UNIT ,8781 - 8887,ut_803_ekchauk_f.mp4
+UNIT ,13154 - 13755,ut_808_kunprush_f.mp4
+UNIT ,15308 - 19800,ut_315_kunchi_f.mp4
+UNIT ,0 - 360,ut_319_utpar_f.mp4
+UNIT ,5161 - 5180,ut_322_lalita_f.mp4
+UNIT ,6251 - 6916,ut_319_utpar_f.mp4
+UNIT ,6971 - 7035,ut_313_prustha_f.mp4
+UNIT ,9187 - 9840,ut_319_utpar_f.mp4
+UNIT ,8717 - 8776,ut_801_ardhabh_f.mp4
+UNIT ,11587 - 11645,ut_801_ardhabh_f.mp4
+UNIT ,17111 - 17773,ut_808_kunprush_f.mp4
+UNIT ,19270 - 19800,ut_315_kunchi_f.mp4
+UNIT ,10089 - 10262,ut_307_kumbha_f.mp4
+UNIT ,10333 - 10741,ut_303_samapada_f.mp4
+UNIT ,11220 - 11640,ut_316_vilag_f.mp4
+UNIT ,11897 - 12257,ut_311_trasya_f.mp4
+UNIT ,12422 - 12607,ut_322_lalita_f.mp4
+UNIT ,12919 - 13210,ut_315_kunchi_f.mp4
+UNIT ,13571 - 13630,ut_306_swastik_f.mp4
+UNIT ,14177 - 14239,ut_306_swastik_f.mp4
+UNIT ,14828 - 15067,ut_328_pratya_f.mp4
+UNIT ,16042 - 16270,ut_819_kash_f.mp4
+UNIT ,16332 - 16515,ut_313_prustha_f.mp4
+UNIT ,16622 - 16862,ut_309_chaukapada_f.mp4
+UNIT ,16931 - 17055,ut_303_samapada_f.mp4
+UNIT ,17122 - 17280,ut_328_pratya_f.mp4
+UNIT ,17291 - 17400,ut_803_ekchauk_f.mp4
+UNIT ,17951 - 18015,ut_312_dhanu_f.mp4
+UNIT ,18498 - 18792,ut_310_mandala_f.mp4
+UNIT ,20184 - 20781,ut_303_samapada_f.mp4
+UNIT ,20892 - 21016,ut_313_prustha_f.mp4
+UNIT ,24122 - 24315,ut_328_pratya_f.mp4
+UNIT ,24540 - 24605,ut_803_ekchauk_f.mp4
+UNIT ,24614 - 24781,ut_328_pratya_f.mp4
+UNIT ,24798 - 24904,ut_313_prustha_f.mp4
+UNIT ,25023 - 25090,ut_327_alidh_f.mp4
+UNIT ,25264 - 25451,ut_809_kuntras_f.mp4
+UNIT ,25810 - 25878,ut_328_pratya_f.mp4
+UNIT ,26355 - 26471,ut_809_kuntras_f.mp4
+UNIT ,26483 - 26711,ut_328_pratya_f.mp4
+UNIT ,26895 - 27318,ut_303_samapada_f.mp4
+UNIT ,27909 - 28508,ut_303_samapada_f.mp4
+UNIT ,28568 - 28683,ut_315_kunchi_f.mp4
+UNIT ,28762 - 29302,ut_315_kunchi_f.mp4
+UNIT ,29773 - 30072,ut_310_mandala_f.mp4
+UNIT ,31620 - 31868,ut_313_prustha_f.mp4
+UNIT ,31980 - 32340,ut_303_samapada_f.mp4
+UNIT ,34162 - 34382,ut_310_mandala_f.mp4
+UNIT ,34454 - 36000 ​​,ut_303_samapada_f.mp4
+UNIT ,0 - 319,ut_303_samapada_f.mp4
+UNIT ,1042 - 1103,ut_811_viptri_f.mp4
+UNIT ,1451 - 1518,ut_811_viptri_f.mp4
+UNIT ,3250 - 3311,ut_803_ekchauk_f.mp4
+UNIT ,3427 - 3483,ut_803_ekchauk_f.mp4
+UNIT ,3609 - 3668,ut_803_ekchauk_f.mp4
+UNIT ,3783 - 3844,ut_803_ekchauk_f.mp4
+UNIT ,5324 - 5402,ut_306_swastik_f.mp4
+UNIT ,5533 - 5585,ut_306_swastik_f.mp4
+UNIT ,5717 - 5770,ut_306_swastik_f.mp4
+UNIT ,5824 - 5886,ut_803_ekchauk_f.mp4
+UNIT ,6186 - 6300,ut_325_januas_f.mp4
+UNIT ,6617 - 7022,ut_312_dhanu_f.mp4
+UNIT ,7222 - 7803,ut_303_samapada_f.mp4
+UNIT ,8119 - 8807,ut_313_prustha_f.mp4
+UNIT ,9005 - 10220,ut_303_samapada_f.mp4
+UNIT ,10273 - 10638,ut_802_vesht_f.mp4
+UNIT ,10701 - 10800,ut_313_prustha_f.mp4
+UNIT ,253 - 381,ut_313_prustha_f.mp4
+UNIT ,1749 - end,ut_329_bandh_f.mp4
+UNIT ,323 - 362,ut_313_prustha_f.mp4
+UNIT ,420 - 862,ut_808_kunprush_f.mp4
+UNIT ,2345 - 2408,ut_803_ekchauk_f.mp4
+UNIT ,2414 - end,ut_315_kunchi_f.mp4
+UNIT ,0 - 434,ut_315_kunchi_f.mp4
+UNIT ,2303 - 2419,ut_309_chaukapada_f.mp4
+UNIT ,2802 - end,ut_330_ekapada_f.mp4
+UNIT ,0 - 498,ut_311_trasya_f.mp4
+UNIT ,558 - 671,ut_808_kunprush_f.mp4
+UNIT ,1573 - 1696,ut_801_ardhabh_f.mp4
+UNIT ,1870 - 1991,ut_801_ardhabh_f.mp4
+UNIT ,2953 - 3066,ut_309_chaukapada_f.mp4
+UNIT ,3737 - 3795,ut_803_ekchauk_f.mp4
+UNIT ,3844 - 3983,ut_803_ekchauk_f.mp4
+UNIT ,3985 - end,ut_309_chaukapada_f.mp4
