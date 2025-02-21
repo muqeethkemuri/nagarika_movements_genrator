@@ -3,6 +3,17 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3000,
     "fields": {
+      "name": "Mangalacharan Overview",
+      "category_data_movements_id": 7000,
+      "related_explanation_slug": "mangalacharan-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3001,
+    "fields": {
       "name": "Bhoomipranam",
       "category_data_movements_id": 7000,
       "start_time": 0,
@@ -13,7 +24,18 @@
   },
   {
     "model": "kalari.CategoriesMovements",
-    "pk": 3001,
+    "pk": 3002,
+    "fields": {
+      "name": "Mangalacharan Overview",
+      "category_data_movements_id": 7002,
+      "related_explanation_slug": "mangalacharan-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3003,
     "fields": {
       "name": "Durga Stuti",
       "category_data_movements_id": 7002,
@@ -25,7 +47,18 @@
   },
   {
     "model": "kalari.CategoriesMovements",
-    "pk": 3002,
+    "pk": 3004,
+    "fields": {
+      "name": "Mangalacharan Overview",
+      "category_data_movements_id": 7004,
+      "related_explanation_slug": "mangalacharan-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3005,
     "fields": {
       "name": "Ganesh Bandana",
       "category_data_movements_id": 7004,
@@ -37,7 +70,18 @@
   },
   {
     "model": "kalari.CategoriesMovements",
-    "pk": 3003,
+    "pk": 3006,
+    "fields": {
+      "name": "Mangalacharan Overview",
+      "category_data_movements_id": 7006,
+      "related_explanation_slug": "mangalacharan-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3007,
     "fields": {
       "name": "Sabhapranam",
       "category_data_movements_id": 7006,
@@ -49,7 +93,18 @@
   },
   {
     "model": "kalari.CategoriesMovements",
-    "pk": 3004,
+    "pk": 3008,
+    "fields": {
+      "name": "Sthayi Overview",
+      "category_data_movements_id": 7008,
+      "related_explanation_slug": "sthayi-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3009,
     "fields": {
       "name": "Sthiti",
       "category_data_movements_id": 7008,

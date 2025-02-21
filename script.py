@@ -122,7 +122,7 @@ csv_file = "input_files/SEQUENCE_CUE_POINTS.csv"
 urls_file = "input_files/odissi_categories_data_urls.json"
 data_file = "input_files/odissi_categories_data.json"
 categories_file = "input_files/odissi_categories.json"
-output_file = "output.json"
+output_file = "odissi_categories_movements.json"
 
 # Generate the JSON
 result = generate_json_from_csv(csv_file, urls_file, data_file, categories_file, output_file)
