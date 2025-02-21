@@ -13,12 +13,11 @@ UNIT
 CONTEXT
 
 
-csv_file = "input_files/SEQUENCE_CUE_POINTS.csv" 
+csv_file = "input_files/CUE_Explanation.csv" 
 urls_file = "input_files/odissi_categories_data_urls.json"
 data_file = "input_files/odissi_categories_data.json"
 categories_file = "input_files/odissi_categories.json"
 output_file = "output.json"
-
 
 
 
