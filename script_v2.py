@@ -105,21 +105,29 @@ def generate_json_from_csv(csv_file, urls_file, data_file, categories_file, outp
             # 2) category_data_movements_id
             fields_dict["category_data_movements_id"] = data["category_pk"]
 
+            # Determine the related slug field based on the type
+            if type_value == 'EXPLANATION':
+                fields_dict["related_explanation_slug"] = f"{data['slug']}"
+            elif type_value == 'CONTEXT':
+                fields_dict["related_context_slug"] = f"{data['slug']}"
+            elif type_value == 'UNIT':
+                fields_dict["related_unit_slug"] = f"{data['slug']}"
+            elif type_value == 'SEQUENCE':
+                fields_dict["related_sequence_slug"] = f"{data['slug']}"
+            else:
+                fields_dict["related_explanation_slug"] = f"{data['slug']}"
+
             if start_time is not None and end_time is not None:
-                # 3) When cue times exist, add start_time and end_time next
+                # When cue times exist, add start_time and end_time next
                 fields_dict["start_time"] = start_time
                 fields_dict["end_time"] = end_time
-                # 4) related_explanation_slug
-                fields_dict["related_explanation_slug"] = f"{data['slug']}"
-                # 5) type
+                # Add the type field
                 fields_dict["type"] = type_value
             else:
                 # When cue times are absent, add the keys in the required order:
-                # 3) related_explanation_slug
-                fields_dict["related_explanation_slug"] = f"{data['slug']}"
-                # 4) type
+                # Add the type field
                 fields_dict["type"] = type_value
-                # 5) is_related_only comes after type
+                # Add is_related_only after type
                 fields_dict["is_related_only"] = True
 
             # Build the full JSON object using an OrderedDict
@@ -138,7 +146,7 @@ def generate_json_from_csv(csv_file, urls_file, data_file, categories_file, outp
     return result
 
 # File paths
-csv_file = "input_files/cue_file.csv"
+csv_file = "input_files/testing.csv"
 urls_file = "input_files/odissi_categories_data_urls.json"
 data_file = "input_files/odissi_categories_data.json"
 categories_file = "input_files/odissi_categories.json"

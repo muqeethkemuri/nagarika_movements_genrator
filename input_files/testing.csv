@@ -1,0 +1,1072 @@
+type,category_pk,cue,name,movie
+EXPLANATION,sq_001_bhoomi_f.mp4,,Mangalacharan Overview,exs_100_intromangala.mp4
+EXPLANATION,sq_001_bhoomi_f.mp4,0 - 7000,Bhoomipranam,exs_101_bhumi.mp4
+EXPLANATION,sq_101_mangalacharan1_f.mp4,,Mangalacharan Overview,exs_100_intromangala.mp4
+EXPLANATION,sq_101_mangalacharan1_f.mp4,0 - 7000,Durga Stuti,exs_102_durga.mp4
+EXPLANATION,sq_102_mangalacharan2_f.mp4,,Mangalacharan Overview,exs_100_intromangala.mp4
+EXPLANATION,sq_102_mangalacharan2_f.mp4,0 - 7000,Ganesh Bandana,exs_103_ganband.mp4
+EXPLANATION,sq_103_mangalacharan3_f.mp4,,Mangalacharan Overview,exs_100_intromangala.mp4
+EXPLANATION,sq_103_mangalacharan3_f.mp4,0 - 7000,Sabhapranam,exs_104_sabhapranam.mp4
+EXPLANATION,sq_201_sthiti_f.mp4,,Sthayi Overview,exs_200_sthayi.mp4
+EXPLANATION,sq_201_sthiti_f.mp4,0 - 7000,Sthiti,exs_201_sabda.mp4
+EXPLANATION,sq_202_GPDsthayi_f.mp4,,Sthayi Overview,exs_200_sthayi.mp4
+EXPLANATION,sq_202_GPDsthayi_f.mp4,0 - 7000,Sthayi - Pankaj Charan Das,exs_202_GPDstha.mp4
+EXPLANATION,sq_203_battu_f.mp4,,Sthayi Overview,exs_200_sthayi.mp4
+EXPLANATION,sq_203_battu_f.mp4,0 - 7000,Battu - Kelucharan Mohapatra,exs_203_battu.mp4
+EXPLANATION,sq_204_konark_f.mp4,,Sthayi Overview,exs_200_sthayi.mp4
+EXPLANATION,sq_204_konark_f.mp4,0 - 7000,Konark Kanti,exs_204_konark.mp4
+EXPLANATION,sq_301_pallavi_f.mp4,,Pallavi Overview,exs_300_pallavi.mp4
+EXPLANATION,sq_301_pallavi_f.mp4,0 - 7000,Raga Rageshri,exs_301_rage.mp4
+EXPLANATION,sq_302_pallavi2_f.mp4,,Pallavi Overview,exs_300_pallavi.mp4
+EXPLANATION,sq_302_pallavi2_f.mp4,0 - 7000,Raga Hamsadhwani,exs_302_hamsa.mp4
+EXPLANATION,sq_401_abhinaya1_f.mp4,,Abhinaya Overview,exs_400_abhin.mp4
+EXPLANATION,sq_401_abhinaya1_f.mp4,0 - 7000,Sakhi Hey,exs_401_sakh.mp4
+EXPLANATION,sq_402_abhinaya2_f.mp4,,Abhinaya Overview,exs_400_abhin.mp4
+EXPLANATION,sq_402_abhinaya2_f.mp4,0 - 7000,Pratinayaka,exs_402_pratina.mp4
+EXPLANATION,sq_501_moksha_f.mp4,,Moksha Overview,exs_500_moksha.mp4
+EXPLANATION,sq_501_moksha_f.mp4,0 - 7000,Moksha,exs_501_kelumoksha.mp4
+EXPLANATION,sq_601_pc1_f.mp4,,Pada Chalana Overview,exs_600_introchalana.mp4
+EXPLANATION,sq_601_pc1_f.mp4,0 - 7000,1,exs_601_pc1.mp4
+EXPLANATION,sq_602_pc2_f.mp4,,Pada Chalana Overview,exs_600_introchalana.mp4
+EXPLANATION,sq_602_pc2_f.mp4,0 - 7000,2,exs_602_pc2.mp4
+EXPLANATION,sq_603_pc3_f.mp4,,Pada Chalana Overview,exs_600_introchalana.mp4
+EXPLANATION,sq_603_pc3_f.mp4,0 - 7000,3,exs_603_pc3.mp4
+EXPLANATION,sq_604_pc4_f.mp4,,Pada Chalana Overview,exs_600_introchalana.mp4
+EXPLANATION,sq_604_pc4_f.mp4,0 - 7000,4,exs_604_pc4.mp4
+EXPLANATION,sq_501_vilasini_f.mp4,0 - 7000,Vilasini,exs_700_vilas.mp4
+EXPLANATION,sq_502_chalo_f.mp4,0 - 7000,Chalo Chalo,exs_800_chalo.mp4
+EXPLANATION,sq_503_gatibilasl_f.mp4,0 - 7000,Gatibilas (Simha),exs_900_liongati.mp4
+EXPLANATION,sq_504_gatibilash_f.mp4,0 - 7000,Gatibilas (Hamsa),exs_1000_swangati.mp4
+EXPLANATION,sq_505_debi_f.mp4,0 - 7000,Debi Bharani,exs_1100_debi.mp4
+EXPLANATION,sq_506_kundalika_f.mp4,0 - 7000,Kundalika,exs_1200_kunda.mp4
+EXPLANATION,sq_506_kundalika_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,sq_507_abahani_f.mp4,0 - 7000,Abahani,exs_1300_abah.mp4
+EXPLANATION,sq_508_dasa_f.mp4,0 - 7000,Dasavatara,exs_1400_dasa.mp4
+EXPLANATION,sq_509_ABBB_f.mp4,0 - 7000,Abartan Bibartan,exs_1500_abbb.mp4
+EXPLANATION,sq_510_murch_f.mp4,0 - 7000,Murchhana,exs_1600_murch.mp4
+EXPLANATION,sq_511_sabda_f.mp4,0 - 7000,Shiv Parvathi Sabda,exs_1700_sabda.mp4
+EXPLANATION,sq_512_sthsan_f.mp4,0 - 7000,Sthayi & Sanchari Bhava,exs_1800_sthsan.mp4
+UNIT,sq_001_bhoomi_f.mp4,0 - 31,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,72 - 78,Veshtita,ut_802_vesht_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,150 - 151,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,152 - 154,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,158 - 175,Kumbha,ut_307_kumbha_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,176 - 178,Sama,ut_303_samapada_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,199 - 2000,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,9 - 10,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,10 - 12,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,12 - 12,Kumbha,ut_307_kumbha_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,32 - 33,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,33 - 34,Alidha,ut_327_alidh_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,40 - 41,Dhanu,ut_312_dhanu_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,42 - 43,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,44 - 45,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,47 - 49,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,49 - 51,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,57 - 58,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,70 - 71,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,94 - 96,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,103 - 104,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,105 - 106,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,108 - 110,Akash,ut_819_kash_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,110 - 112,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,113 - 115,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,118 - 120,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,131 - 132,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,135 - 136,Bandhani,ut_329_bandh_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,136 - 141,Ekapada,ut_330_ekapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,144 - 145,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,217 - 218,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,223 - 226,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,228 - 232,Sama,ut_303_samapada_f.mp4
+UNIT,sq_101_mangalacharan1_f.mp4,233 - 237,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,0 - 8,Sama,ut_303_samapada_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,9 - 12,Rekha,ut_302_rekha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,12 - 15,Sama,ut_303_samapada_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,18 - 20,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,22 - 24,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,26 - 28,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,28 - 31,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,36 - 40,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,42 - 43,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,45 - 47,Lolita pada,ut_322_lalita_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,50 - 55,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,56 - 61,Janghashrita,ut_331_jangh_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,64 - 68,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,108 - 110,Sama,ut_303_samapada_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,95 - 99,Bhujangi,ut_907_bhuj_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,114 - 121,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,124 - 130,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_102_mangalacharan2_f.mp4,131 - 136,Sama,ut_303_samapada_f.mp4
+UNIT,sq_201_sthiti_f.mp4,0 - 74,Sama,ut_303_samapada_f.mp4
+UNIT,sq_201_sthiti_f.mp4,211 - 217,Bamachala - Dakshyachala,ut_501_bamdaksh_f.mp4
+UNIT,sq_201_sthiti_f.mp4,217 - 219,Agrachala - Prushthachala,ut_502_agraprushth_f.mp4
+UNIT,sq_201_sthiti_f.mp4,219 - 226,Adi,ut_301_adi_f.mp4
+UNIT,sq_201_sthiti_f.mp4,226 - 234,Rekha,ut_302_rekha_f.mp4
+UNIT,sq_201_sthiti_f.mp4,234 - 237,Sama,ut_303_samapada_f.mp4
+UNIT,sq_201_sthiti_f.mp4,238 - 246,Viparitha/dwimukha,ut_304_viparit_f.mp4
+UNIT,sq_201_sthiti_f.mp4,335 - 336,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_201_sthiti_f.mp4,459 - 461,Ardhaswastika,ut_305_arswastik_f.mp4
+UNIT,sq_201_sthiti_f.mp4,461 - 463,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_201_sthiti_f.mp4,463 - 464,Kumbha,ut_307_kumbha_f.mp4
+UNIT,sq_201_sthiti_f.mp4,465 - 467,Ardha-chauka,ut_308_archauk_f.mp4
+UNIT,sq_201_sthiti_f.mp4,467 - 470,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_201_sthiti_f.mp4,470 - 477,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_201_sthiti_f.mp4,509 - 510,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_201_sthiti_f.mp4,523 - 525,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_201_sthiti_f.mp4,656 - 658,Trasya,ut_311_trasya_f.mp4
+UNIT,sq_201_sthiti_f.mp4,658 - 661,Dhanu,ut_312_dhanu_f.mp4
+UNIT,sq_201_sthiti_f.mp4,661 - 666,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_201_sthiti_f.mp4,667 - 669,Suchi,ut_314_suchi_f.mp4
+UNIT,sq_201_sthiti_f.mp4,669 - 672,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_201_sthiti_f.mp4,672 - 675,Anukunchita,ut_317_anukun_f.mp4
+UNIT,sq_201_sthiti_f.mp4,678 - 680,Gharshita,ut_318_ghars_f.mp4
+UNIT,sq_201_sthiti_f.mp4,680 - 683,Utparshani,ut_319_utpar_f.mp4
+UNIT,sq_201_sthiti_f.mp4,683 - 687,Vilagna Parshani,ut_316_vilag_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,0 - 16,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,17 - 18,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,20 - 21,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,29 - 3,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,31 - 31,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,92 - 93,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,94 - 95,Mardala,ut_201_mardala_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,98 - 99,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,100 - 105,Mardala,ut_201_mardala_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,105 - 106,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,110 - 112,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,115 - 116,Lolita pada,ut_322_lalita_f.mp4
+UNIT,sq_202_GPDsthayi_f.mp4,129 - 139,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_203_battu_f.mp4,0 - 8,Sama,ut_303_samapada_f.mp4
+UNIT,sq_203_battu_f.mp4,9 - 11,Kumbha,ut_307_kumbha_f.mp4
+UNIT,sq_203_battu_f.mp4,13 - 27,Parshachira,ut_807_parshach_f.mp4
+UNIT,sq_203_battu_f.mp4,31 - 44,Parshachira,ut_807_parshach_f.mp4
+UNIT,sq_203_battu_f.mp4,50 - 52,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_203_battu_f.mp4,59 - 60,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_203_battu_f.mp4,65 - 66,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_203_battu_f.mp4,70 - 77,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_203_battu_f.mp4,104 - 105,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_203_battu_f.mp4,105 - 106,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_203_battu_f.mp4,106 - 113,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_203_battu_f.mp4,172 - 173,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_203_battu_f.mp4,186 - 190,Janghashrita,ut_331_jangh_f.mp4
+UNIT,sq_203_battu_f.mp4,196 - 2000,Sama,ut_303_samapada_f.mp4
+UNIT,sq_204_konark_f.mp4,8 - 12,Mardala,ut_201_mardala_f.mp4
+UNIT,sq_204_konark_f.mp4,13 - 15,Manjeera,ut_203_manj_f.mp4
+UNIT,sq_204_konark_f.mp4,15 - 18,Mardala,ut_201_mardala_f.mp4
+UNIT,sq_204_konark_f.mp4,30 - 33,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_204_konark_f.mp4,58 - 59,Chauka,ut_805_chakrachauk_f.mp4
+UNIT,sq_204_konark_f.mp4,141 - 142,Meenapuccha,ut_321_meena_f.mp4
+UNIT,sq_204_konark_f.mp4,147 - 150,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_204_konark_f.mp4,152 - 154,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_204_konark_f.mp4,159 - 160,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_204_konark_f.mp4,169 - 177,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_204_konark_f.mp4,178 - 182,Ullolita,ut_324_ullo_f.mp4
+UNIT,sq_204_konark_f.mp4,208 - 227,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_204_konark_f.mp4,231 - 2000,Atibhanga,ut_105_atibhanga_f.mp4
+UNIT,sq_301_pallavi_f.mp4,0 - 5,Trasya,ut_311_trasya_f.mp4
+UNIT,sq_301_pallavi_f.mp4,19 - 22,Akash,ut_819_kash_f.mp4
+UNIT,sq_301_pallavi_f.mp4,54 - 55,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_301_pallavi_f.mp4,59 - 61,Trasya,ut_311_trasya_f.mp4
+UNIT,sq_301_pallavi_f.mp4,85 - 89,Meenapuccha,ut_321_meena_f.mp4
+UNIT,sq_301_pallavi_f.mp4,91 - 92,Bandhani,ut_329_bandh_f.mp4
+UNIT,sq_301_pallavi_f.mp4,128 - 131,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_301_pallavi_f.mp4,144 - 145,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_301_pallavi_f.mp4,146 - 148,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_301_pallavi_f.mp4,219 - 229,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_301_pallavi_f.mp4,255 - 2000,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,0 - 6,Utparshani,ut_319_utpar_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,86 - 86,Lolita pada,ut_322_lalita_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,104 - 115,Utparshani,ut_319_utpar_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,116 - 117,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,153 - 164,Utparshani,ut_319_utpar_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,145 - 146,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,193 - 194,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,285 - 296,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_302_pallavi2_f.mp4,321 - 2000,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,168 - 171,Kumbha,ut_307_kumbha_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,172 - 179,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,187 - 194,Vilagna Parshani,ut_316_vilag_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,198 - 204,Trasya,ut_311_trasya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,207 - 210,Lolita pada,ut_322_lalita_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,215 - 220,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,226 - 227,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,236 - 237,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,247 - 251,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,267 - 271,Akash,ut_819_kash_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,272 - 275,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,277 - 281,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,282 - 284,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,285 - 288,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,288 - 290,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,299 - 300,Dhanu,ut_312_dhanu_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,308 - 313,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,336 - 346,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,348 - 350,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,402 - 405,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,409 - 410,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,410 - 413,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,413 - 415,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,417 - 418,Alidha,ut_327_alidh_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,421 - 424,Trasya,ut_809_kuntras_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,430 - 431,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,439 - 441,Trasya,ut_809_kuntras_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,441 - 445,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,448 - 455,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,465 - 475,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,476 - 478,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,479 - 488,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,496 - 501,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,527 - 531,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,533 - 539,Sama,ut_303_samapada_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,569 - 573,Mandala,ut_310_mandala_f.mp4
+UNIT,sq_402_abhinaya2_f.mp4,574 - 2000,Sama,ut_303_samapada_f.mp4
+UNIT,sq_501_moksha_f.mp4,0 - 5,Sama,ut_303_samapada_f.mp4
+UNIT,sq_501_moksha_f.mp4,17 - 18,Tribhangi,ut_811_viptri_f.mp4
+UNIT,sq_501_moksha_f.mp4,24 - 25,Tribhangi,ut_811_viptri_f.mp4
+UNIT,sq_501_moksha_f.mp4,54 - 55,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_501_moksha_f.mp4,57 - 58,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_501_moksha_f.mp4,60 - 1,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_501_moksha_f.mp4,63 - 64,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_501_moksha_f.mp4,88 - 90,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_501_moksha_f.mp4,92 - 93,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_501_moksha_f.mp4,95 - 96,Swastika,ut_306_swastik_f.mp4
+UNIT,sq_501_moksha_f.mp4,97 - 98,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_501_moksha_f.mp4,103 - 105,Janu Ashrita,ut_325_januas_f.mp4
+UNIT,sq_501_moksha_f.mp4,110 - 117,Dhanu,ut_312_dhanu_f.mp4
+UNIT,sq_501_moksha_f.mp4,120 - 130,Sama,ut_303_samapada_f.mp4
+UNIT,sq_501_moksha_f.mp4,135 - 146,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_501_moksha_f.mp4,150 - 170,Sama,ut_303_samapada_f.mp4
+UNIT,sq_501_moksha_f.mp4,171 - 177,Veshtita,ut_802_vesht_f.mp4
+UNIT,sq_501_moksha_f.mp4,178 - 180,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_601_pc1_f.mp4,4 - 6,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_601_pc1_f.mp4,29 - 2000,Bandhani,ut_329_bandh_f.mp4
+UNIT,sq_602_pc2_f.mp4,5 - 6,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_602_pc2_f.mp4,7 - 14,Prushtadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_602_pc2_f.mp4,39 - 40,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_602_pc2_f.mp4,40 - 2000,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_603_pc3_f.mp4,0 - 7,Kunchita,ut_315_kunchi_f.mp4
+UNIT,sq_603_pc3_f.mp4,38 - 40,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_603_pc3_f.mp4,46 - 2000,Ekapada,ut_330_ekapada_f.mp4
+UNIT,sq_604_pc4_f.mp4,60 - 1,Trasya,ut_311_trasya_f.mp4
+UNIT,sq_604_pc4_f.mp4,9 - 11,Prusthadhanu,ut_808_kunprush_f.mp4
+UNIT,sq_604_pc4_f.mp4,26 - 28,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_604_pc4_f.mp4,31 - 33,Ardha,ut_801_ardhabh_f.mp4
+UNIT,sq_604_pc4_f.mp4,49 - 51,Chauka,ut_309_chaukapada_f.mp4
+UNIT,sq_604_pc4_f.mp4,62 - 63,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_604_pc4_f.mp4,64 - 66,Chauka,ut_803_ekchauk_f.mp4
+UNIT,sq_604_pc4_f.mp4,66 - 2000,Chauka,ut_309_chaukapada_f.mp4
+SEQUENCE,ut_103_chauka_f.mp4,,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,ut_301_adi_f.mp4,,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,ut_302_rekha_f.mp4,,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,ut_303_samapada_f.mp4,,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,ut_321_meena_f.mp4,,Shiv Parvathi Sabda,sq_504_sabda_f.mp4
+EXPLANATION,ut_101_sama_f.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ut_101_sama_f.mp4,0 - 2000,Sama Bhanga,exu_101_samabhanga.mp4
+EXPLANATION,ut_102_ardha_f.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ut_102_ardha_f.mp4,0 - 2000,Ardha Bhanga/ Abhangi,exu_102_ardhabhanga.mp4
+EXPLANATION,ut_103_chauka_f.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ut_103_chauka_f.mp4,0 - 2000,Chauka,exu_103_chaukabhanga.mp4
+EXPLANATION,ut_104_tribhangi_f.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ut_104_tribhangi_f.mp4,0 - 2000,Tribhangi,exu_104_tribhangi.mp4
+EXPLANATION,ut_105_atibhanga_f.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ut_105_atibhanga_f.mp4,0 - 2000,Atibhanga,exu_105_atibhanga.mp4
+EXPLANATION,ut_201_mardala_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_201_mardala_f.mp4,0 - 2000,Mardala,exu_201_marda.mp4
+EXPLANATION,ut_202_beena_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_202_beena_f.mp4,0 - 2000,Beena,exu_202_beena.mp4
+EXPLANATION,ut_203_manj_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_203_manj_f.mp4,0 - 2000,Manjeera,exu_203_manj.mp4
+EXPLANATION,ut_204_bans_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_204_bans_f.mp4,0 - 2000,Bansi,exu_204_bans.mp4
+EXPLANATION,ut_205_alas_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_205_alas_f.mp4,0 - 2000,Alasa,exu_205_alas.mp4
+EXPLANATION,ut_206_darp_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_206_darp_f.mp4,0 - 2000,Darpana,exu_206_darp.mp4
+EXPLANATION,ut_207_sal_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_207_sal_f.mp4,0 - 2000,Salbhanjika,exu_207_sala.mp4
+EXPLANATION,ut_208_abh_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_208_abh_f.mp4,0 - 2000,Abhiman,exu_208_abhi.mp4
+EXPLANATION,ut_209_ram_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_209_ram_f.mp4,0 - 2000,Rama,exu_209_rama.mp4
+EXPLANATION,ut_210_rav_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_210_rav_f.mp4,0 - 2000,Ravana,exu_210_rava.mp4
+EXPLANATION,ut_211_sur_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_211_sur_f.mp4,0 - 2000,Surya,exu_211_sury.mp4
+EXPLANATION,ut_212_vish_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_212_vish_f.mp4,0 - 2000,Vishnu,exu_212_vish.mp4
+EXPLANATION,ut_213_shiv_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_213_shiv_f.mp4,0 - 2000,Shiva,exu_213_shiv.mp4
+EXPLANATION,ut_214_dur_f.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ut_214_dur_f.mp4,0 - 2000,Durga,exu_214_durg.mp4
+EXPLANATION,ut_301_adi_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_301_adi_f.mp4,,Sama Overview,exu_301_0_oversama.mp4
+EXPLANATION,ut_301_adi_f.mp4,0 - 2000,Adi,exu_301_adi.mp4
+EXPLANATION,ut_302_rekha_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_302_rekha_f.mp4,,Sama Overview,exu_301_0_oversama.mp4
+EXPLANATION,ut_302_rekha_f.mp4,0 - 2000,Rekha,exu_302_rekha.mp4
+EXPLANATION,ut_303_samapada_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_303_samapada_f.mp4,,Sama Overview,exu_301_0_oversama.mp4
+EXPLANATION,ut_303_samapada_f.mp4,0 - 2000,Sama,exu_303_sama.mp4
+EXPLANATION,ut_304_viparit_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_304_viparit_f.mp4,,Sama Overview,exu_301_0_oversama.mp4
+EXPLANATION,ut_304_viparit_f.mp4,0 - 2000,Viparitha/dwimukha,exu_304_viparith.mp4
+EXPLANATION,ut_305_arswastik_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_305_arswastik_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_305_arswastik_f.mp4,0 - 2000,Ardhaswastika,exu_305_arswastika.mp4
+EXPLANATION,ut_306_swastik_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_306_swastik_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_306_swastik_f.mp4,0 - 2000,Swastika,exu_306_swastika.mp4
+EXPLANATION,ut_307_kumbha_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_307_kumbha_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_307_kumbha_f.mp4,0 - 2000,Kumbha,exu_307_kumbha.mp4
+EXPLANATION,ut_308_archauk_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_308_archauk_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_308_archauk_f.mp4,0 - 2000,Ardha-chauka,exu_308_archauka.mp4
+EXPLANATION,ut_309_chaukapada_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_309_chaukapada_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_309_chaukapada_f.mp4,0 - 2000,Chauka,exu_309_chaukapada.mp4
+EXPLANATION,ut_310_mandala_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_310_mandala_f.mp4,,Chauka Overview,exu_305_0_overchauk.mp4
+EXPLANATION,ut_310_mandala_f.mp4,0 - 2000,Mandala,exu_310_mandala.mp4
+EXPLANATION,ut_311_trasya_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_311_trasya_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_311_trasya_f.mp4,0 - 2000,Trasya,exu_311_trasya.mp4
+EXPLANATION,ut_312_dhanu_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_312_dhanu_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_312_dhanu_f.mp4,0 - 2000,Dhanu,exu_312_dhanu.mp4
+EXPLANATION,ut_313_prustha_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_313_prustha_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_313_prustha_f.mp4,0 - 2000,Prusthadhanu,exu_313_prushtha.mp4
+EXPLANATION,ut_314_suchi_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_314_suchi_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_314_suchi_f.mp4,0 - 2000,Suchi,exu_314_suchi.mp4
+EXPLANATION,ut_315_kunchi_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_315_kunchi_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_315_kunchi_f.mp4,0 - 2000,Kunchita,exu_315_kunchita.mp4
+EXPLANATION,ut_316_vilag_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_316_vilag_f.mp4,,Tribhangi Overview,exu_311_0_overtri.mp4
+EXPLANATION,ut_316_vilag_f.mp4,0 - 2000,Vilagna Parshani,exu_316_vilagna.mp4
+EXPLANATION,ut_317_anukun_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_317_anukun_f.mp4,,Ardha Bhanga Overview,exu_317_0_overardh.mp4
+EXPLANATION,ut_317_anukun_f.mp4,0 - 2000,Anukunchita,exu_317_anukun.mp4
+EXPLANATION,ut_318_ghars_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_318_ghars_f.mp4,,Ardha Bhanga Overview,exu_317_0_overardh.mp4
+EXPLANATION,ut_318_ghars_f.mp4,0 - 2000,Gharshita,exu_318_gharsita.mp4
+EXPLANATION,ut_319_utpar_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_319_utpar_f.mp4,,Ardha Bhanga Overview,exu_317_0_overardh.mp4
+EXPLANATION,ut_319_utpar_f.mp4,0 - 2000,Utparshani,exu_319_utparshini.mp4
+EXPLANATION,ut_320_ashri_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_320_ashri_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_320_ashri_f.mp4,0 - 2000,Ashrita,exu_320_ashrita.mp4
+EXPLANATION,ut_321_meena_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_321_meena_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_321_meena_f.mp4,0 - 2000,Meenapuchha,exu_321_meena.mp4
+EXPLANATION,ut_322_lalita_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_322_lalita_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_322_lalita_f.mp4,0 - 2000,Lolita,exu_322_lalita.mp4
+EXPLANATION,ut_323_utta_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_323_utta_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_323_utta_f.mp4,0 - 2000,Uttolita pada,exu_323_uttalita.mp4
+EXPLANATION,ut_324_ullo_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_324_ullo_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_324_ullo_f.mp4,0 - 2000,Ullolita,exu_324_ullolita.mp4
+EXPLANATION,ut_325_januas_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_325_januas_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_325_januas_f.mp4,0 - 2000,Janu Ashrita,exu_325_januash.mp4
+EXPLANATION,ut_326_nupura_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_326_nupura_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_326_nupura_f.mp4,0 - 2000,Nupura,exu_326_nupura.mp4
+EXPLANATION,ut_327_alidh_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_327_alidh_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_327_alidh_f.mp4,0 - 2000,Alidha,exu_327_alidha.mp4
+EXPLANATION,ut_328_pratya_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_328_pratya_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_328_pratya_f.mp4,0 - 2000,Pratyalidha,exu_328_pratya.mp4
+EXPLANATION,ut_329_bandh_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_329_bandh_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_329_bandh_f.mp4,0 - 2000,Bandhani,exu_329_bandha.mp4
+EXPLANATION,ut_330_ekapada_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_330_ekapada_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_330_ekapada_f.mp4,0 - 2000,Ekapada,exu_330_ekapada.mp4
+EXPLANATION,ut_331_jangh_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_331_jangh_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_331_jangh_f.mp4,0 - 2000,Janghashrita,exu_331_jangha.mp4
+EXPLANATION,ut_332_mahap_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_332_mahap_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_332_mahap_f.mp4,0 - 2000,Mahapada,exu_332_mahapada.mp4
+EXPLANATION,ut_333_prushtham_f.mp4,,Padabheda Overview,exu_300_intropadabheda.mp4
+EXPLANATION,ut_333_prushtham_f.mp4,,Others Overview,exu_320_0_overview.mp4
+EXPLANATION,ut_333_prushtham_f.mp4,0 - 2000,Prushta Mahapada,exu_333_prushta.mp4
+EXPLANATION,ut_501_bamdaksh_f.mp4,,Bakshyachalana Overview,exu_500_introbaks.mp4
+EXPLANATION,ut_501_bamdaksh_f.mp4,0 - 2000,Bamachala - Dakshyachala,exu_501_bamdaksh.mp4
+EXPLANATION,ut_502_agraprushth_f.mp4,,Bakshyachalana Overview,exu_500_introbaks.mp4
+EXPLANATION,ut_502_agraprushth_f.mp4,0 - 2000,Agrachala - Prushthachala,exu_502_agraprush.mp4
+EXPLANATION,ut_503_prachala_f.mp4,,Bakshyachalana Overview,exu_500_introbaks.mp4
+EXPLANATION,ut_503_prachala_f.mp4,0 - 2000,Prachala,exu_503_prachala.mp4
+EXPLANATION,ut_601_sam1_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_601_sam1_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_602_sam2_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_602_sam2_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_603_sam3_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_603_sam3_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_604_sam4_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_604_sam4_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_605_sam5_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_605_sam5_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_606_sam6_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_606_sam6_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_607_sam7_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_607_sam7_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_608_sam8_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_608_sam8_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_609_sam9_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_609_sam9_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_610_sam10_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_610_sam10_f.mp4,0 - 2000,Sama-Ardha,exu_601_samardh.mp4
+EXPLANATION,ut_611_chauk1_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_611_chauk1_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_612_chauk2_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_612_chauk2_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_613_chauk3_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_613_chauk3_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_614_chauk4_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_614_chauk4_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_615_chauk5_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_615_chauk5_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_616_chauk6_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_616_chauk6_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_617_chauk7_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_617_chauk7_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_618_chauk8_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_618_chauk8_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_619_chauk9_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_619_chauk9_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_620_chauk10_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_620_chauk10_f.mp4,0 - 2000,Chauka,exu_602_chaukk.mp4
+EXPLANATION,ut_621_tri1_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_621_tri1_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_622_tri2_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_622_tri2_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_623_tri3_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_623_tri3_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_624_tri4_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_624_tri4_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_625_tri5_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_625_tri5_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_626_tri16_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_626_tri16_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_627_tri7_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_627_tri7_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_628_tri8_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_628_tri8_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_629_tri9_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_629_tri9_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_630_tri10_f.mp4,,Basic steps Overview,exu_600_introcharisb.mp4
+EXPLANATION,ut_630_tri10_f.mp4,0 - 2000,Tribhangi,exu_603_tribh.mp4
+EXPLANATION,ut_801_ardhabh_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_801_ardhabh_f.mp4,0 - 2000,Ardha,exu_801_ardha.mp4
+EXPLANATION,ut_802_vesht_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_802_vesht_f.mp4,0 - 2000,Veshtita,exu_802_vesh.mp4
+EXPLANATION,ut_803_ekchauk_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_803_ekchauk_f.mp4,0 - 2000,Ekapada,exu_803_ekchauk.mp4
+EXPLANATION,ut_804_ull_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_804_ull_f.mp4,0 - 2000,Ekapada,exu_803_ekchauk.mp4
+EXPLANATION,ut_805_chakrachauk_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_805_chakrachauk_f.mp4,0 - 2000,Chakra,exu_805_chakra.mp4
+EXPLANATION,ut_806_chakraut_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_806_chakraut_f.mp4,0 - 2000,Chakra,exu_805_chakra.mp4
+EXPLANATION,ut_807_parshach_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_807_parshach_f.mp4,0 - 2000,Chakra,exu_805_chakra.mp4
+EXPLANATION,ut_808_kunprush_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_808_kunprush_f.mp4,0 - 2000,Kunchita,exu_808_kunch.mp4
+EXPLANATION,ut_809_kuntras_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_809_kuntras_f.mp4,0 - 2000,Kunchita,exu_808_kunch.mp4
+EXPLANATION,ut_810_vipchauk_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_810_vipchauk_f.mp4,0 - 2000,Viparita,exu_810_vipchau.mp4
+EXPLANATION,ut_811_viptri_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_811_viptri_f.mp4,0 - 2000,Viparita,exu_810_vipchau.mp4
+EXPLANATION,ut_812_utpchauk_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_812_utpchauk_f.mp4,0 - 2000,Utpluta,exu_812_utpl.mp4
+EXPLANATION,ut_813_utpur_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_813_utpur_f.mp4,0 - 2000,Utpluta,exu_812_utpl.mp4
+EXPLANATION,ut_814_garudthi_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_814_garudthi_f.mp4,0 - 2000,Garuda,exu_814_garud.mp4
+EXPLANATION,ut_815_garudbos_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_815_garudbos_f.mp4,0 - 2000,Garuda,exu_814_garud.mp4
+EXPLANATION,ut_816_balachh_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_816_balachh_f.mp4,0 - 2000,Balaita,exu_816_balai.mp4
+EXPLANATION,ut_817_balavip_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_817_balavip_f.mp4,0 - 2000,Balaita,exu_816_balai.mp4
+EXPLANATION,ut_818_balachap_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_818_balachap_f.mp4,0 - 2000,Balaita,exu_816_balai.mp4
+EXPLANATION,ut_819_kash_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_819_kash_f.mp4,0 - 2000,Akash,exu_819_akash.mp4
+EXPLANATION,ut_820_prith_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_820_prith_f.mp4,0 - 2000,Prithvi,exu_820_prithvi.mp4
+EXPLANATION,ut_821_anga_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_821_anga_f.mp4,0 - 2000,Anga,exu_821_anga.mp4
+EXPLANATION,ut_822_baksha_f.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ut_822_baksha_f.mp4,0 - 2000,Bakshya,exu_822_baksha.mp4
+EXPLANATION,ut_901_hams_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_901_hams_f.mp4,0 - 2000,Hamsi,exu_901_hams.mp4
+EXPLANATION,ut_902_mayu_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_902_mayu_f.mp4,0 - 2000,Mayuri,exu_902_mayuri.mp4
+EXPLANATION,ut_903_mru_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_903_mru_f.mp4,0 - 2000,Mrugi,exu_903_mrugi.mp4
+EXPLANATION,ut_904_gaja_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_904_gaja_f.mp4,0 - 2000,Gajalila,exu_904_gaja.mp4
+EXPLANATION,ut_905_turan_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_905_turan_f.mp4,0 - 2000,Turangini,exu_905_turan.mp4
+EXPLANATION,ut_906_simhi_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_906_simhi_f.mp4,0 - 2000,Singhi/simhi,exu_906_simhi.mp4
+EXPLANATION,ut_907_bhuj_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_907_bhuj_f.mp4,0 - 2000,Bhujangi,exu_907_bhuj.mp4
+EXPLANATION,ut_908_mand_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_908_mand_f.mp4,0 - 2000,Manduki,exu_908_mand.mp4
+EXPLANATION,ut_910_manav_f.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ut_910_manav_f.mp4,0 - 2000,Manavi,exu_910_mana.mp4
+EXPLANATION,ut_1001_01_karor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1001_01_karor_f.mp4,0 - 2000,Karma,exu_1001_kar.mp4
+EXPLANATION,ut_1002_01_kartrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1002_01_kartrans_f.mp4,0 - 2000,Karma,exu_1001_kar.mp4
+EXPLANATION,ut_1001_02_karor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1001_02_karor_f.mp4,0 - 2000,Karma,exu_1001_kar.mp4
+EXPLANATION,ut_1002_02_kartrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1002_02_kartrans_f.mp4,0 - 2000,Karma,exu_1001_kar.mp4
+EXPLANATION,ut_1003_01_danor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1003_01_danor_f.mp4,0 - 2000,Danda,exu_1002_dand.mp4
+EXPLANATION,ut_1004_01_dantrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1004_01_dantrans_f.mp4,0 - 2000,Danda,exu_1002_dand.mp4
+EXPLANATION,ut_1003_02_danor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1003_02_danor_f.mp4,0 - 2000,Danda,exu_1002_dand.mp4
+EXPLANATION,ut_1004_02_dantrans1_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1004_02_dantrans1_f.mp4,0 - 2000,Danda,exu_1002_dand.mp4
+EXPLANATION,ut_1004_02_dantrans2_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1004_02_dantrans2_f.mp4,0 - 2000,Danda,exu_1002_dand.mp4
+EXPLANATION,ut_1005_01_paikor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1005_01_paikor_f.mp4,0 - 2000,Paika,exu_1003_paik.mp4
+EXPLANATION,ut_1006_01_paiktrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1006_01_paiktrans_f.mp4,0 - 2000,Paika,exu_1003_paik.mp4
+EXPLANATION,ut_1005_02_paikor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1005_02_paikor_f.mp4,0 - 2000,Paika,exu_1003_paik.mp4
+EXPLANATION,ut_1006_02_paiktrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1006_02_paiktrans_f.mp4,0 - 2000,Paika,exu_1003_paik.mp4
+EXPLANATION,ut_1007_01_chhauor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1007_01_chhauor_f.mp4,0 - 2000,Chhau,exu_1004_chhau.mp4
+EXPLANATION,ut_1008_01_chhtrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1008_01_chhtrans_f.mp4,0 - 2000,Chhau,exu_1004_chhau.mp4
+EXPLANATION,ut_1007_02_chhauor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1007_02_chhauor_f.mp4,0 - 2000,Chhau,exu_1004_chhau.mp4
+EXPLANATION,ut_1008_02_chhtrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1008_02_chhtrans_f.mp4,0 - 2000,Chhau,exu_1004_chhau.mp4
+EXPLANATION,ut_1009_sambor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1009_sambor_f.mp4,0 - 2000,Sambalpuri,exu_1005_sambal.mp4
+EXPLANATION,ut_1010_sambor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1010_sambor_f.mp4,0 - 2000,Sambalpuri,exu_1005_sambal.mp4
+EXPLANATION,ut_1011_sambor_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1011_sambor_f.mp4,0 - 2000,Sambalpuri,exu_1005_sambal.mp4
+EXPLANATION,ut_1013_mahatrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1013_mahatrans_f.mp4,0 - 2000,Mahari,exu_1006_mahari.mp4
+EXPLANATION,ut_1013_mahatrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1013_mahatrans_f.mp4,0 - 2000,Mahari,exu_1006_mahari.mp4
+EXPLANATION,ut_1014_gotior_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1014_gotior_f.mp4,0 - 2000,Gotipua,exu_1007_gotipua.mp4
+EXPLANATION,ut_1015_gotitrans_f.mp4,,Movement Transformation Overview,exu_1000_intromt.mp4
+EXPLANATION,ut_1015_gotitrans_f.mp4,0 - 2000,Gotipua,exu_1007_gotipua.mp4
+CONTEXT,ut_101_sama_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_102_ardha_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_103_chauka_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_104_tribhangi_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_105_atibhanga_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_201_mardala_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_201_mardala_f.mp4,0 - 2000,Introduction,ct_704_mardala.mp4
+CONTEXT,ut_201_mardala_f.mp4,,Current practices,ct_705_mardcurr.mp4
+CONTEXT,ut_201_mardala_f.mp4,,Dhaneshwar Swain,ct_705_dhanswa.mp4
+CONTEXT,ut_202_beena_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_203_manj_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_204_bans_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_205_alas_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_206_darp_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_207_sal_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_208_abh_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_209_ram_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_210_rav_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_211_sur_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_212_vish_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_213_shiv_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_214_dur_f.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,ut_501_bamdaksh_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_502_agraprushth_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_503_prachala_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_801_ardhabh_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_802_vesht_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_803_ekchauk_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_804_ull_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_805_chakrachauk_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_806_chakraut_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_807_parshach_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_808_kunprush_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_809_kuntras_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_810_vipchauk_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_811_viptri_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_812_utpchauk_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_813_utpur_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_814_garudthi_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_815_garudbos_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_816_balachh_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_817_balavip_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_818_balachap_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_819_kash_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_820_prith_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_821_anga_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_822_baksha_f.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,ut_901_hams_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_902_mayu_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_903_mru_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_904_gaja_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_905_turan_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_906_simhi_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_907_bhuj_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_908_mand_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_910_manav_f.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,ut_1012_mahaor_f.mp4,0 - 2000,Mahari,ct_104_mahari.mp4
+CONTEXT,ut_1013_mahatrans_f.mp4,0 - 2000,Mahari,ct_104_mahari.mp4
+CONTEXT,ut_1014_gotior_f.mp4,0 - 2000,Gotipua,ct_105_gotipua.mp4
+CONTEXT,ut_1015_gotitrans_f.mp4,0 - 2000,Gotipua,ct_105_gotipua.mp4
+SEQUENCE,exs_100_intromangala.mp4,,Bhoomipranam,sq_001_bhoomi_f.mp4
+SEQUENCE,exs_100_intromangala.mp4,,Durga Stuti,sq_101_mangalacharan1_f.mp4
+SEQUENCE,exs_100_intromangala.mp4,,Ganesh Bandana,sq_102_mangalacharan2_f.mp4
+SEQUENCE,exs_100_intromangala.mp4,,Sabhapranam,sq_103_mangalacharan3_f.mp4
+SEQUENCE,exs_101_bhumi.mp4,0 - 2000,Bhoomipranam,sq_001_bhoomi_f.mp4
+SEQUENCE,exs_102_durga.mp4,0 - 2000,Durga Stuti,sq_101_mangalacharan1_f.mp4
+SEQUENCE,exs_103_ganband.mp4,0 - 2000,Ganesh Bandana,sq_102_mangalacharan2_f.mp4
+SEQUENCE,exs_104_sabhapranam.mp4,0 - 2000,Sabhapranam,sq_103_mangalacharan3_f.mp4
+SEQUENCE,exs_200_sthayi.mp4,,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,exs_200_sthayi.mp4,,Sthayi - Pankaj Charan Das,sq_202_GPDsthayi_f.mp4
+SEQUENCE,exs_200_sthayi.mp4,,Battu - Kelucharan Mahapatra,sq_203_battu_f.mp4
+SEQUENCE,exs_200_sthayi.mp4,,Konark Kanti,sq_204_konark_f.mp4
+SEQUENCE,exs_201_sabda.mp4,0 - 2000,Sthiti,sq_201_sthiti_f.mp4
+SEQUENCE,exs_202_GPDstha.mp4,0 - 2000,Sthayi - Pankaj Charan Das,sq_202_GPDsthayi_f.mp4
+SEQUENCE,exs_203_battu.mp4,0 - 2000,Battu - Kelucharan Mahapatra,sq_203_battu_f.mp4
+SEQUENCE,exs_204_konark.mp4,0 - 2000,Konark kanti,sq_204_konark_f.mp4
+SEQUENCE,exs_300_pallavi.mp4,,Raga Rageshri,sq_301_pallavi_f.mp4
+SEQUENCE,exs_300_pallavi.mp4,,Raga Hamsadhwani,sq_302_pallavi2_f.mp4
+SEQUENCE,exs_301_rage.mp4,0 - 2000,Raga Rageshri,sq_301_pallavi_f.mp4
+SEQUENCE,exs_302_hamsa.mp4,0 - 2000,Raga Hamsadhwani,sq_302_pallavi2_f.mp4
+SEQUENCE,exs_400_abhin.mp4,,Sakhi Hey,sq_401_abhinaya1_f.mp4
+SEQUENCE,exs_400_abhin.mp4,,Pratinayaka,sq_402_abhinaya2_f.mp4
+SEQUENCE,exs_401_sakh.mp4,0 - 2000,Sakhi Hey,sq_401_abhinaya1_f.mp4
+SEQUENCE,exs_402_pratina.mp4,0 - 2000,Pratinayaka,sq_402_abhinaya2_f.mp4
+SEQUENCE,exs_500_moksha.mp4,0 - 2000,Moksha,sq_501_moksha_f.mp4
+SEQUENCE,exs_501_kelumoksha.mp4,0 - 2000,Moksha,sq_501_moksha_f.mp4
+SEQUENCE,exs_600_introchalana.mp4,,1,sq_601_pc1_f.mp4
+SEQUENCE,exs_600_introchalana.mp4,,2,sq_602_pc2_f.mp4
+SEQUENCE,exs_600_introchalana.mp4,,3,sq_603_pc3_f.mp4
+SEQUENCE,exs_600_introchalana.mp4,,4,sq_604_pc4_f.mp4
+SEQUENCE,exs_601_pc1.mp4,0 - 2000,1,sq_601_pc1_f.mp4
+SEQUENCE,exs_602_pc2.mp4,0 - 2000,2,sq_602_pc2_f.mp4
+SEQUENCE,exs_603_pc3.mp4,0 - 2000,3,sq_603_pc3_f.mp4
+SEQUENCE,exs_604_pc4.mp4,0 - 2000,4,sq_604_pc4_f.mp4
+SEQUENCE,exs_700_vilas.mp4,0 - 2000,Vilasini Solo,sq_501_vilasini_f.mp4
+SEQUENCE,exs_800_chalo.mp4,0 - 2000,Chalo Chalo Solo,sq_502_chalo_f.mp4
+SEQUENCE,exs_900_liongati.mp4,0 - 2000,Gatibilas (Simha),sq_503_gatibilasl_f.mp4
+SEQUENCE,exs_1000_swangati.mp4,0 - 2000,Gatibilas (Hamsa),sq_504_gatibilash_f.mp4
+SEQUENCE,exs_1100_debi.mp4,0 - 2000,Debi Bharani,sq_505_debi_f.mp4
+SEQUENCE,exs_1200_kunda.mp4,0 - 2000,Kundalika,sq_506_kundalika_f.mp4
+SEQUENCE,exs_1300_abah.mp4,0 - 2000,Abahani,sq_507_abahani_f.mp4
+SEQUENCE,exs_1400_dasa.mp4,0 - 2000,Dasavatara,sq_508_dasa_f.mp4
+SEQUENCE,exs_1500_abbb.mp4,0 - 2000,Abartan Bibartan,sq_509_ABBB_f.mp4
+SEQUENCE,exs_1600_murch.mp4,0 - 2000,Murchhana,sq_510_murch_f.mp4
+SEQUENCE,exs_1700_sabda.mp4,0 - 2000,Shiv Parvathi Sabda,sq_511_sabda_f.mp4
+SEQUENCE,exs_1800_sthsan.mp4,0 - 2000,Sthayi & Sanchari Bhava,sq_512_sthsan_f.mp4
+CONTEXT,exs_400_abhin.mp4,0 - 2000,Art of Communication,ct_1800_abhi_ex.mp4
+CONTEXT,exs_401_sakh.mp4,0 - 2000,Art of Communication,ct_1800_abhi_ex.mp4
+CONTEXT,exs_402_pratina.mp4,0 - 2000,Art of Communication,ct_1800_abhi_ex.mp4
+CONTEXT,exs_700_vilas.mp4,0 - 2000,Costume & Ornament,ct_307_costu_ex.mp4
+CONTEXT,exs_800_chalo.mp4,0 - 2000,Mahari,ct_103_mahari.mp4
+CONTEXT,exs_1200_kunda.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exs_1600_murch.mp4,0 - 2000,Odissi Mrudanga,ct_703_percussion.mp4
+CONTEXT,exs_1800_sthsan.mp4,0 - 2000,Sthayi & Sanchari Bhava,ct_1806_bhav_ex.mp4
+UNIT,exu_311_0_overtri.mp4,,Trasya,ut_311_trasya_f.mp4
+UNIT,exu_311_0_overtri.mp4,,Dhanu,ut_312_dhanu_f.mp4
+UNIT,exu_311_0_overtri.mp4,,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,exu_311_0_overtri.mp4,,Suchi,ut_314_suchi_f.mp4
+UNIT,exu_311_0_overtri.mp4,,Kunchita,ut_315_kunchi_f.mp4
+UNIT,exu_311_0_overtri.mp4,,Vilagna Parshani,ut_316_vilag_f.mp4
+UNIT,exu_311_trasya.mp4,0 - 2000,Trasya,ut_311_trasya_f.mp4
+UNIT,exu_312_dhanu.mp4,0 - 2000,Dhanu,ut_312_dhanu_f.mp4
+UNIT,exu_313_prushtha.mp4,0 - 2000,Prustha dhanu,ut_313_prustha_f.mp4
+UNIT,exu_314_suchi.mp4,0 - 2000,Suchi,ut_314_suchi_f.mp4
+UNIT,exu_315_kunchita.mp4,0 - 2000,Kunchita,ut_315_kunchi_f.mp4
+UNIT,exu_316_vilagna.mp4,0 - 2000,Vilagna Parshani,ut_316_vilag_f.mp4
+UNIT,exu_317_0_overardh.mp4,,Anukunchita,ut_317_anukun_f.mp4
+UNIT,exu_317_0_overardh.mp4,,Gharshita,ut_318_ghars_f.mp4
+UNIT,exu_317_0_overardh.mp4,,Utparshani,ut_319_utpar_f.mp4
+UNIT,exu_317_anukun.mp4,0 - 2000,Anukunchita,ut_317_anukun_f.mp4
+UNIT,exu_318_gharsita.mp4,0 - 2000,Gharshita,ut_318_ghars_f.mp4
+UNIT,exu_319_utparshini.mp4,0 - 2000,Utparshani,ut_319_utpar_f.mp4
+UNIT,exu_320_0_overview.mp4,,Ashrita,ut_320_ashri_f.mp4
+UNIT,exu_320_0_overview.mp4,,Meenapuccha,ut_321_meena_f.mp4
+UNIT,exu_320_0_overview.mp4,,Lolita,ut_322_lalita_f.mp4
+UNIT,exu_320_0_overview.mp4,,Uttolita,ut_323_utta_f.mp4
+UNIT,exu_320_0_overview.mp4,,Ullolita,ut_324_ullo_f.mp4
+UNIT,exu_320_0_overview.mp4,,Janu Ashrita,ut_325_januas_f.mp4
+UNIT,exu_320_0_overview.mp4,,Nupura,ut_326_nupura_f.mp4
+UNIT,exu_320_0_overview.mp4,,Alidha,ut_327_alidh_f.mp4
+UNIT,exu_320_0_overview.mp4,,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,exu_320_0_overview.mp4,,Bandhani,ut_329_bandh_f.mp4
+UNIT,exu_320_0_overview.mp4,,Ekapada,ut_330_ekapada_f.mp4
+UNIT,exu_320_0_overview.mp4,,Janghashrita,ut_331_jangh_f.mp4
+UNIT,exu_320_0_overview.mp4,,Mahapada,ut_332_mahap_f.mp4
+UNIT,exu_320_0_overview.mp4,,Prushta Mahapada,ut_333_prushtham_f.mp4
+UNIT,exu_320_ashrita.mp4,0 - 2000,Ashrita,ut_320_ashri_f.mp4
+UNIT,exu_321_meena.mp4,0 - 2000,Meenapuccha,ut_321_meena_f.mp4
+UNIT,exu_322_lalita.mp4,0 - 2000,Lolita,ut_322_lalita_f.mp4
+UNIT,exu_323_uttalita.mp4,0 - 2000,Uttolita,ut_323_utta_f.mp4
+UNIT,exu_324_ullolita.mp4,0 - 2000,Ullolita,ut_324_ullo_f.mp4
+UNIT,exu_325_januash.mp4,0 - 2000,Janu Ashrita,ut_325_januas_f.mp4
+UNIT,exu_326_nupura.mp4,0 - 2000,Nupura,ut_326_nupura_f.mp4
+UNIT,exu_327_alidha.mp4,0 - 2000,Alidha,ut_327_alidh_f.mp4
+UNIT,exu_328_pratya.mp4,0 - 2000,Pratyalidha,ut_328_pratya_f.mp4
+UNIT,exu_329_bandha.mp4,0 - 2000,Bandhani,ut_329_bandh_f.mp4
+UNIT,exu_330_ekapada.mp4,0 - 2000,Ekapada,ut_330_ekapada_f.mp4
+UNIT,exu_331_jangha.mp4,0 - 2000,Janghashrita,ut_331_jangh_f.mp4
+UNIT,exu_332_mahapada.mp4,0 - 2000,MahaPada,ut_332_mahap_f.mp4
+UNIT,exu_333_prushta.mp4,0 - 2000,Prushta Mahapada,ut_333_prushtham_f.mp4
+UNIT,exu_500_introbaks.mp4,,Bamachala - Dakshyachala,ut_501_bamdaksh_f.mp4
+UNIT,exu_500_introbaks.mp4,,Agrachala - Prushthachala,ut_502_agraprushth_f.mp4
+UNIT,exu_500_introbaks.mp4,,Prachala,ut_503_prachala_f.mp4
+UNIT,exu_501_bamdaksh.mp4,0 - 2000,Bamachala - Dakshyachala,ut_501_bamdaksh_f.mp4
+UNIT,exu_502_agraprush.mp4,0 - 2000,Agrachala - Prushthachala,ut_502_agraprushth_f.mp4
+UNIT,exu_503_prachala.mp4,0 - 2000,Prachala,ut_503_prachala_f.mp4
+UNIT,exu_600_introcharisb.mp4,,1,ut_601_sam1_f.mp4
+UNIT,exu_600_introcharisb.mp4,,2,ut_602_sam2_f.mp4
+UNIT,exu_600_introcharisb.mp4,,3,ut_603_sam3_f.mp4
+UNIT,exu_600_introcharisb.mp4,,4,ut_604_sam4_f.mp4
+UNIT,exu_600_introcharisb.mp4,,5,ut_605_sam5_f.mp4
+UNIT,exu_600_introcharisb.mp4,,6,ut_606_sam6_f.mp4
+UNIT,exu_600_introcharisb.mp4,,7,ut_607_sam7_f.mp4
+UNIT,exu_600_introcharisb.mp4,,8,ut_608_sam8_f.mp4
+UNIT,exu_600_introcharisb.mp4,,9,ut_609_sam9_f.mp4
+UNIT,exu_600_introcharisb.mp4,,10,ut_610_sam10_f.mp4
+UNIT,exu_600_introcharisb.mp4,,1,ut_611_chauk1_f.mp4
+UNIT,exu_600_introcharisb.mp4,,2,ut_612_chauk2_f.mp4
+UNIT,exu_600_introcharisb.mp4,,3,ut_613_chauk3_f.mp4
+UNIT,exu_600_introcharisb.mp4,,4,ut_614_chauk4_f.mp4
+UNIT,exu_600_introcharisb.mp4,,5,ut_615_chauk5_f.mp4
+UNIT,exu_600_introcharisb.mp4,,6,ut_616_chauk6_f.mp4
+UNIT,exu_600_introcharisb.mp4,,7,ut_617_chauk7_f.mp4
+UNIT,exu_600_introcharisb.mp4,,8,ut_618_chauk8_f.mp4
+UNIT,exu_600_introcharisb.mp4,,9,ut_619_chauk9_f.mp4
+UNIT,exu_600_introcharisb.mp4,,10,ut_620_chauk10_f.mp4
+UNIT,exu_600_introcharisb.mp4,,1,ut_621_tri1_f.mp4
+UNIT,exu_600_introcharisb.mp4,,2,ut_622_tri2_f.mp4
+UNIT,exu_600_introcharisb.mp4,,3,ut_623_tri3_f.mp4
+UNIT,exu_600_introcharisb.mp4,,4,ut_624_tri4_f.mp4
+UNIT,exu_600_introcharisb.mp4,,5,ut_625_tri5_f.mp4
+UNIT,exu_600_introcharisb.mp4,,6,ut_626_tri16_f.mp4
+UNIT,exu_600_introcharisb.mp4,,7,ut_627_tri7_f.mp4
+UNIT,exu_600_introcharisb.mp4,,8,ut_628_tri8_f.mp4
+UNIT,exu_600_introcharisb.mp4,,9,ut_629_tri9_f.mp4
+UNIT,exu_600_introcharisb.mp4,,10,ut_630_tri10_f.mp4
+UNIT,exu_601_samardh.mp4,,1,ut_601_sam1_f.mp4
+UNIT,exu_601_samardh.mp4,,2,ut_602_sam2_f.mp4
+UNIT,exu_601_samardh.mp4,,3,ut_603_sam3_f.mp4
+UNIT,exu_601_samardh.mp4,,4,ut_604_sam4_f.mp4
+UNIT,exu_601_samardh.mp4,,5,ut_605_sam5_f.mp4
+UNIT,exu_601_samardh.mp4,,6,ut_606_sam6_f.mp4
+UNIT,exu_601_samardh.mp4,,7,ut_607_sam7_f.mp4
+UNIT,exu_601_samardh.mp4,,8,ut_608_sam8_f.mp4
+UNIT,exu_601_samardh.mp4,,9,ut_609_sam9_f.mp4
+UNIT,exu_601_samardh.mp4,,10,ut_610_sam10_f.mp4
+UNIT,exu_602_chaukk.mp4,,1,ut_611_chauk1_f.mp4
+UNIT,exu_602_chaukk.mp4,,2,ut_612_chauk2_f.mp4
+UNIT,exu_602_chaukk.mp4,,3,ut_613_chauk3_f.mp4
+UNIT,exu_602_chaukk.mp4,,4,ut_614_chauk4_f.mp4
+UNIT,exu_602_chaukk.mp4,,5,ut_615_chauk5_f.mp4
+UNIT,exu_602_chaukk.mp4,,6,ut_616_chauk6_f.mp4
+UNIT,exu_602_chaukk.mp4,,7,ut_617_chauk7_f.mp4
+UNIT,exu_602_chaukk.mp4,,8,ut_618_chauk8_f.mp4
+UNIT,exu_602_chaukk.mp4,,9,ut_619_chauk9_f.mp4
+UNIT,exu_602_chaukk.mp4,,10,ut_620_chauk10_f.mp4
+UNIT,exu_603_tribh.mp4,,1,ut_621_tri1_f.mp4
+UNIT,exu_603_tribh.mp4,,2,ut_622_tri2_f.mp4
+UNIT,exu_603_tribh.mp4,,3,ut_623_tri3_f.mp4
+UNIT,exu_603_tribh.mp4,,4,ut_624_tri4_f.mp4
+UNIT,exu_603_tribh.mp4,,5,ut_625_tri5_f.mp4
+UNIT,exu_603_tribh.mp4,,6,ut_626_tri16_f.mp4
+UNIT,exu_603_tribh.mp4,,7,ut_627_tri7_f.mp4
+UNIT,exu_603_tribh.mp4,,8,ut_628_tri8_f.mp4
+UNIT,exu_603_tribh.mp4,,9,ut_629_tri9_f.mp4
+UNIT,exu_603_tribh.mp4,,10,ut_630_tri10_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Ardha,ut_801_ardhabh_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Veshtita,ut_802_vesht_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chauka,ut_803_ekchauk_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Ullolita,ut_804_ull_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chauka,ut_805_chakrachauk_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Uthparshini,ut_806_chakraut_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Parshachira,ut_807_parshach_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Prushtadhanu,ut_808_kunprush_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Trasya,ut_809_kuntras_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chauka,ut_810_vipchauk_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Tribhangi,ut_811_viptri_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chauka,ut_812_utpchauk_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Purna,ut_813_utpur_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Thiya,ut_814_garudthi_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Bosa,ut_815_garudbos_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chhanda,ut_816_balachh_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Viparita,ut_817_balavip_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Chhapka,ut_818_balachap_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Akash,ut_819_kash_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Prithvi,ut_820_prith_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Anga,ut_821_anga_f.mp4
+UNIT,exu_800_01_introbhrasb.mp4,,Bakshya,ut_822_baksha_f.mp4
+UNIT,exu_801_ardha.mp4,0 - 2000,Ardha,ut_801_ardhabh_f.mp4
+UNIT,exu_802_vesh.mp4,0 - 2000,Veshtita,ut_802_vesht_f.mp4
+UNIT,exu_803_ekchauk.mp4,0 - 2000,Chauka,ut_803_ekchauk_f.mp4
+UNIT,exu_805_chakra.mp4,0 - 2000,Chauka,ut_805_chakrachauk_f.mp4
+UNIT,exu_808_kunch.mp4,0 - 2000,Prushtadhanu,ut_808_kunprush_f.mp4
+UNIT,exu_810_vipchau.mp4,0 - 2000,Chauka,ut_810_vipchauk_f.mp4
+UNIT,exu_812_utpl.mp4,0 - 2000,Chauka,ut_812_utpchauk_f.mp4
+UNIT,exu_814_garud.mp4,0 - 2000,Thiya,ut_814_garudthi_f.mp4
+UNIT,exu_816_balai.mp4,0 - 2000,Chhanda,ut_816_balachh_f.mp4
+UNIT,exu_819_akash.mp4,0 - 2000,Akash,ut_819_kash_f.mp4
+UNIT,exu_820_prithvi.mp4,0 - 2000,Prithvi,ut_820_prith_f.mp4
+UNIT,exu_821_anga.mp4,0 - 2000,Anga,ut_821_anga_f.mp4
+UNIT,exu_822_baksha.mp4,0 - 2000,Bakshya,ut_822_baksha_f.mp4
+UNIT,exu_900_introgati.mp4,,Hamsi,ut_901_hams_f.mp4
+UNIT,exu_900_introgati.mp4,,Mayuri,ut_902_mayu_f.mp4
+UNIT,exu_900_introgati.mp4,,Mrugi,ut_903_mru_f.mp4
+UNIT,exu_900_introgati.mp4,,Gajalila,ut_904_gaja_f.mp4
+UNIT,exu_900_introgati.mp4,,Turangini,ut_905_turan_f.mp4
+UNIT,exu_900_introgati.mp4,,Singhi/simhi,ut_906_simhi_f.mp4
+UNIT,exu_900_introgati.mp4,,Bhujangi,ut_907_bhuj_f.mp4
+UNIT,exu_900_introgati.mp4,,Manduki,ut_908_mand_f.mp4
+UNIT,exu_900_introgati.mp4,,Manavi,ut_910_manav_f.mp4
+UNIT,exu_901_hams.mp4,0 - 2000,Hamsi,ut_901_hams_f.mp4
+UNIT,exu_902_mayuri.mp4,0 - 2000,Mayuri,ut_902_mayu_f.mp4
+UNIT,exu_903_mrugi.mp4,0 - 2000,Mrugi,ut_903_mru_f.mp4
+UNIT,exu_904_gaja.mp4,0 - 2000,Gajalila,ut_904_gaja_f.mp4
+UNIT,exu_905_turan.mp4,0 - 2000,Turangini,ut_905_turan_f.mp4
+UNIT,exu_906_simhi.mp4,0 - 2000,Singhi/simhi,ut_906_simhi_f.mp4
+UNIT,exu_907_bhuj.mp4,0 - 2000,Bhujangi,ut_907_bhuj_f.mp4
+UNIT,exu_908_mand.mp4,0 - 2000,Manduki,ut_908_mand_f.mp4
+UNIT,exu_910_mana.mp4,0 - 2000,Manavi,ut_910_manav_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 1,ut_1001_01_karor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 1,ut_1002_01_kartrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 2,ut_1001_02_karor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2,ut_1002_02_kartrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 1,ut_1003_01_danor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 1,ut_1004_01_dantrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 2,ut_1003_02_danor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2A,ut_1004_02_dantrans1_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2B,ut_1004_02_dantrans2_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 1,ut_1005_01_paikor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2,ut_1006_01_paiktrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 2,ut_1005_02_paikor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2,ut_1006_02_paiktrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 1,ut_1007_01_chhauor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 1,ut_1008_01_chhtrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original 2,ut_1007_02_chhauor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed 2,ut_1008_02_chhtrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original & Transformed 1,ut_1009_sambor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original & Transformed 2,ut_1010_sambor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original & Transformed 3,ut_1011_sambor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original,ut_1012_mahaor_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed,ut_1013_mahatrans_f.mp4
+UNIT,exu_1000_intromt.mp4,,Original,ut_1014_gotior_f.mp4
+UNIT,exu_1000_intromt.mp4,,Transformed,ut_1015_gotitrans_f.mp4
+UNIT,exu_1001_kar.mp4,,Original 1,ut_1001_01_karor_f.mp4
+UNIT,exu_1001_kar.mp4,,Transformed 1,ut_1002_01_kartrans_f.mp4
+UNIT,exu_1001_kar.mp4,,Original 2,ut_1001_02_karor_f.mp4
+UNIT,exu_1001_kar.mp4,,Transformed 2,ut_1002_02_kartrans_f.mp4
+UNIT,exu_1002_dand.mp4,,Original 1,ut_1003_01_danor_f.mp4
+UNIT,exu_1002_dand.mp4,,Transformed 1,ut_1004_01_dantrans_f.mp4
+UNIT,exu_1002_dand.mp4,,Original 2,ut_1003_02_danor_f.mp4
+UNIT,exu_1002_dand.mp4,,Transformed 2A,ut_1004_02_dantrans1_f.mp4
+UNIT,exu_1002_dand.mp4,,Transformed 2B,ut_1004_02_dantrans2_f.mp4
+UNIT,exu_1003_paik.mp4,,Original 1,ut_1005_01_paikor_f.mp4
+UNIT,exu_1003_paik.mp4,,Transformed 2,ut_1006_01_paiktrans_f.mp4
+UNIT,exu_1003_paik.mp4,,Original 2,ut_1005_02_paikor_f.mp4
+UNIT,exu_1003_paik.mp4,,Transformed 2,ut_1006_02_paiktrans_f.mp4
+UNIT,exu_1004_chhau.mp4,,Original 1,ut_1007_01_chhauor_f.mp4
+UNIT,exu_1004_chhau.mp4,,Transformed 1,ut_1008_01_chhtrans_f.mp4
+UNIT,exu_1004_chhau.mp4,,Original 2,ut_1007_02_chhauor_f.mp4
+UNIT,exu_1004_chhau.mp4,,Transformed 2,ut_1008_02_chhtrans_f.mp4
+UNIT,exu_1005_sambal.mp4,,Original & Transformed 1,ut_1009_sambor_f.mp4
+UNIT,exu_1005_sambal.mp4,,Original & Transformed 2,ut_1010_sambor_f.mp4
+UNIT,exu_1005_sambal.mp4,,Original & Transformed 3,ut_1011_sambor_f.mp4
+UNIT,exu_1006_mahari.mp4,,Original,ut_1012_mahaor_f.mp4
+UNIT,exu_1006_mahari.mp4,,Transformed,ut_1013_mahatrans_f.mp4
+UNIT,exu_1007_gotipua.mp4,,Original,ut_1014_gotior_f.mp4
+UNIT,exu_1007_gotipua.mp4,,Transformed,ut_1015_gotitrans_f.mp4
+CONTEXT,exu_001_introBhangi.mp4,0 - 10,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_001_introBhangi.mp4,10 - 200,Iconography,ut_1015_gotitrans_f.mp4
+CONTEXT,exu_101_samabhanga.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_102_ardhabhanga.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_103_chaukabhanga.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_104_tribhangi.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_105_atibhanga.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_200_intoshilpa.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_201_marda.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_202_beena.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_203_manj.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_204_bans.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_205_alas.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_206_darp.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_207_sala.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_208_abhi.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_209_rama.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_210_rava.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_211_sury.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_212_vish.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_213_shiv.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_214_durg.mp4,0 - 2000,Iconography,ct_308_iconography_ex.mp4
+CONTEXT,exu_500_introbaks.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_501_bamdaksh.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_502_agraprush.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_503_prachala.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_800_01_introbhrasb.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_801_ardha.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_802_vesh.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_803_ekchauk.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_805_chakra.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_808_kunch.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_810_vipchau.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_812_utpl.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_814_garud.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_816_balai.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_819_akash.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_820_prithvi.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_821_anga.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_822_baksha.mp4,0 - 2000,Circularity,ct_401_circula_ex.mp4
+CONTEXT,exu_900_introgati.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_901_hams.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_902_mayuri.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_903_mrugi.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_904_gaja.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_905_turan.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_906_simhi.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_907_bhuj.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_908_mand.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_910_mana.mp4,0 - 2000,Realms of embodiment,ct_310_embodiment_ex.mp4
+CONTEXT,exu_910_mana.mp4,0 - 2000,Mahari,ct_103_mahari.mp4
+CONTEXT,exu_910_mana.mp4,0 - 2000,Gotipua,ct_105_gotipua.mp4
+SEQUENCE,ct_104_02_mahari.mp4,0 - 2000,Chalo Chalo,sq_502_chalo_f.mp4
+SEQUENCE,ct_307_costu_ex.mp4,0 - 2000,Vilasini,sq_501_vilasini_f.mp4
+SEQUENCE,ct_1800_abhi_ex.mp4,,Sakhi Hey,sq_401_abhinaya1_f.mp4
+SEQUENCE,ct_1800_abhi_ex.mp4,,Pratinayaka,sq_402_abhinaya2_f.mp4
+SEQUENCE,ct_1806_bhav_ex.mp4,,Sthayi & Sanchari Bhava,sq_512_sthsan_f.mp4
+UNIT,ct_104_02_mahari.mp4,,Original,ut_1012_mahaor_f.mp4
+UNIT,ct_105_gotipua.mp4,,Transformed,ut_1013_mahatrans_f.mp4
+UNIT,ct_106_goticurr.mp4,,Original,ut_1014_gotior_f.mp4
+UNIT,ct_110_sp.mp4,,Transformed,ut_1015_gotitrans_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Sama Bhanga,ut_101_sama_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Ardha Bhanga/Abhangi,ut_102_ardha_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Chauka,ut_103_chauka_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Tribhangi,ut_104_tribhangi_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Atibhanga,ut_105_atibhanga_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Mardala,ut_201_mardala_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Beena,ut_202_beena_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Manjeera,ut_203_manj_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Bansi,ut_204_bans_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Alasa,ut_205_alas_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Darpana,ut_206_darp_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Salbhanjika,ut_207_sal_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Abhiman,ut_208_abh_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Rama,ut_209_ram_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Ravana,ut_210_rav_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Surya,ut_211_sur_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Vishnu,ut_212_vish_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Shiva,ut_213_shiv_f.mp4
+UNIT,ct_308_iconography_ex.mp4,,Durga,ut_214_dur_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Hamsi,ut_901_hams_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Mayuri,ut_902_mayu_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Mrugi,ut_903_mru_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Gajalila,ut_904_gaja_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Turangini,ut_905_turan_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Singhi/simhi,ut_906_simhi_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Bhujangi,ut_907_bhuj_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Manduki,ut_908_mand_f.mp4
+UNIT,ct_310_embodiment_ex.mp4,,Manavi,ut_910_manav_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Bamachala - Dakshyachala,ut_501_bamdaksh_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Agrachala - Prushthachala,ut_502_agraprushth_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Prachala,ut_503_prachala_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Ardha,ut_801_ardhabh_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Veshtita,ut_802_vesht_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chauka,ut_803_ekchauk_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Ullolita,ut_804_ull_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chauka,ut_805_chakrachauk_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Uthparshini,ut_806_chakraut_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Parshachira,ut_807_parshach_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Prushtadhanu,ut_808_kunprush_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Trasya,ut_809_kuntras_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chauka,ut_810_vipchauk_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Tribhangi,ut_811_viptri_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chauka,ut_812_utpchauk_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Purna,ut_813_utpur_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Thiya,ut_814_garudthi_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Bosa,ut_815_garudbos_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chhanda,ut_816_balachh_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Viparita,ut_817_balavip_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Chhapka,ut_818_balachap_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Akash,ut_819_kash_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Prithvi,ut_820_prith_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Anga,ut_821_anga_f.mp4
+UNIT,ct_401_circula_ex.mp4,,Bakshya,ut_822_baksha_f.mp4
+EXPLANATION,ct_104_02_mahari.mp4,,Chalo Chalo,exs_800_chalo.mp4
+EXPLANATION,ct_105_gotipua.mp4,,Mahari,exu_1006_mahari.mp4
+EXPLANATION,ct_106_goticurr.mp4,0 - 2000,Gotipua,exu_1007_gotipua.mp4
+EXPLANATION,ct_307_costu_ex.mp4,0 - 2000,Vilasini,exs_700_vilas.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Bhangi Overview,exu_001_introBhangi.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Sama Bhanga,exu_101_samabhanga.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Ardha Bhanga/Abhangi,exu_102_ardhabhanga.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Chauka,exu_103_chaukabhanga.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Tribhangi,exu_104_tribhangi.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Atibhanga,exu_105_atibhanga.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Shilpa Bhangima Overview,exu_200_intoshilpa.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Mardala,exu_201_marda.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Beena,exu_202_beena.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Manjeera,exu_203_manj.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Bansi,exu_204_bans.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Alasa,exu_205_alas.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Darpana,exu_206_darp.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Salbhanjika,exu_207_sala.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Abhiman,exu_208_abhi.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Rama,exu_209_rama.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Ravana,exu_210_rava.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Surya,exu_211_sury.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Vishnu,exu_212_vish.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Shiva,exu_213_shiv.mp4
+EXPLANATION,ct_308_iconography_ex.mp4,,Durga,exu_214_durg.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Gati Overview,exu_900_introgati.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Hamsi,exu_901_hams.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Mayuri,exu_902_mayuri.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Mrugi,exu_903_mrugi.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Gajalila,exu_904_gaja.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Turangini,exu_905_turan.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Singhi/simhi,exu_906_simhi.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Bhujangi,exu_907_bhuj.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Manduki,exu_908_mand.mp4
+EXPLANATION,ct_310_embodiment_ex.mp4,,Manavi,exu_910_mana.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Bakshyachalana Overview,exu_500_introbaks.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Bamachala - Dakshyachala,exu_501_bamdaksh.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Agrachala - Prushthachala,exu_502_agraprush.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Prachala,exu_503_prachala.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Bhramari Overview,exu_800_01_introbhrasb.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Ardha,exu_801_ardha.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Veshtita,exu_802_vesh.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Ekapada,exu_803_ekchauk.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Chakra,exu_805_chakra.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Kunchita,exu_808_kunch.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Viparita,exu_810_vipchau.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Utpluta,exu_812_utpl.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Garuda,exu_814_garud.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Balaita,exu_816_balai.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Akash,exu_819_akash.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Prithvi,exu_820_prithvi.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Anga,exu_821_anga.mp4
+EXPLANATION,ct_401_circula_ex.mp4,,Bakshya,exu_822_baksha.mp4
+EXPLANATION,ct_1800_abhi_ex.mp4,,Abhinaya Overview,exs_400_abhin.mp4
+EXPLANATION,ct_1800_abhi_ex.mp4,,Sakhi Hey,exs_401_sakh.mp4
+EXPLANATION,ct_1800_abhi_ex.mp4,,Pratinayaka,exs_402_pratina.mp4
