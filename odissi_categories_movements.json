@@ -1,0 +1,49 @@
+[
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3000,
+    "fields": {
+      "name": "Prusthadhanu",
+      "category_data_movements_id": 7000,
+      "related_unit_slug": "prusthadhanu-un",
+      "start_time": 0,
+      "end_time": 31,
+      "type": "UNIT"
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3001,
+    "fields": {
+      "name": "Veshtita",
+      "category_data_movements_id": 7000,
+      "related_unit_slug": "veshtita-un",
+      "start_time": 72,
+      "end_time": 78,
+      "type": "UNIT"
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3002,
+    "fields": {
+      "name": "Mangalacharan Overview",
+      "category_data_movements_id": 7000,
+      "related_explanation_slug": "mangalacharan-overview-un-exp",
+      "type": "EXPLANATION",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3003,
+    "fields": {
+      "name": "Bhoomipranam",
+      "category_data_movements_id": 7000,
+      "related_explanation_slug": "bhoomipranam-un-exp",
+      "start_time": 0,
+      "end_time": 7000,
+      "type": "EXPLANATION"
+    }
+  }
+]

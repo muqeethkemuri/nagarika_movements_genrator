@@ -146,7 +146,7 @@ def generate_json_from_csv(csv_file, urls_file, data_file, categories_file, outp
     return result
 
 # File paths
-csv_file = "input_files/testing.csv"
+csv_file = "input_files/test_cue_list.csv"
 urls_file = "input_files/odissi_categories_data_urls.json"
 data_file = "input_files/odissi_categories_data.json"
 categories_file = "input_files/odissi_categories.json"

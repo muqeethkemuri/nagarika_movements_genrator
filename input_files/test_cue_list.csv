@@ -1,0 +1,5 @@
+type,category_pk,cue,name,movie
+UNIT,sq_001_bhoomi_f.mp4,0 - 31,Prusthadhanu,ut_313_prustha_f.mp4
+UNIT,sq_001_bhoomi_f.mp4,72 - 78,Veshtita,ut_802_vesht_f.mp4
+EXPLANATION,sq_001_bhoomi_f.mp4,,Mangalacharan Overview,exs_100_intromangala.mp4
+EXPLANATION,sq_001_bhoomi_f.mp4,0 - 7000,Bhoomipranam,exs_101_bhumi.mp4
